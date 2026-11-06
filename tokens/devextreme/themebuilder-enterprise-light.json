@@ -1,0 +1,40 @@
+{
+  "_comment": "GENERATED from design-tokens/ by scripts/tokens/build.py. Do not edit. Status: APPROVED values (ADR 0003); high-contrast modes APPROVED (ADR 0005). Import into DevExtreme ThemeBuilder (base theme Generic, ADR 0004). Covers HTML widgets only; SVG viz components use nexavia-dx-viz.json.",
+  "baseTheme": "generic.light",
+  "outputColorScheme": "nexavia-enterprise-light",
+  "makeSwatch": false,
+  "items": [
+    {
+      "key": "$base-accent",
+      "value": "#3B4FD8"
+    },
+    {
+      "key": "$base-text-color",
+      "value": "#17142A"
+    },
+    {
+      "key": "$base-bg",
+      "value": "#FFFFFF"
+    },
+    {
+      "key": "$base-border-color",
+      "value": "#DCD8EC"
+    },
+    {
+      "key": "$base-success",
+      "value": "#1C7343"
+    },
+    {
+      "key": "$base-warning",
+      "value": "#8A5A00"
+    },
+    {
+      "key": "$base-danger",
+      "value": "#B4232A"
+    },
+    {
+      "key": "$base-border-radius",
+      "value": "12px"
+    }
+  ]
+}

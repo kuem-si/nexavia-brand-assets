@@ -1,0 +1,16 @@
+Subject: Pretok nad mejo · števec 4471-02
+
+Pretok nad mejo
+
+Števec 4471-02 meri pretok nad nastavljeno mejo. Preverite ventil ali potrdite opozorilo.
+
+Lokacija: Vzorčevo · cona 2
+Od: 6. 11. 2026, 08.42
+Vrednost: 18,4 m³/h (meja 12,0 m³/h)
+Organizacija: Komunala Vzorec d.o.o.
+
+Odpri opozorilo: {{ALERT_URL}}
+
+--
+To sporočilo ste prejeli, ker ste uporabnik storitve Nexavia za organizacijo Komunala Vzorec d.o.o.
+Nastavitve obveščanja: {{SETTINGS_URL}}

@@ -1,0 +1,78 @@
+{
+  "colors": [
+    {
+      "idiom": "universal",
+      "color": {
+        "color-space": "srgb",
+        "components": {
+          "red": "0x4B",
+          "green": "0xA8",
+          "blue": "0xE0",
+          "alpha": "1.000"
+        }
+      }
+    },
+    {
+      "idiom": "universal",
+      "appearances": [
+        {
+          "appearance": "luminosity",
+          "value": "dark"
+        }
+      ],
+      "color": {
+        "color-space": "srgb",
+        "components": {
+          "red": "0x3D",
+          "green": "0x9C",
+          "blue": "0xD3",
+          "alpha": "1.000"
+        }
+      }
+    },
+    {
+      "idiom": "universal",
+      "appearances": [
+        {
+          "appearance": "contrast",
+          "value": "high"
+        }
+      ],
+      "color": {
+        "color-space": "srgb",
+        "components": {
+          "red": "0x10",
+          "green": "0x7D",
+          "blue": "0xB2",
+          "alpha": "1.000"
+        }
+      }
+    },
+    {
+      "idiom": "universal",
+      "appearances": [
+        {
+          "appearance": "luminosity",
+          "value": "dark"
+        },
+        {
+          "appearance": "contrast",
+          "value": "high"
+        }
+      ],
+      "color": {
+        "color-space": "srgb",
+        "components": {
+          "red": "0x25",
+          "green": "0x89",
+          "blue": "0xBF",
+          "alpha": "1.000"
+        }
+      }
+    }
+  ],
+  "info": {
+    "author": "nexavia-tokens",
+    "version": 1
+  }
+}

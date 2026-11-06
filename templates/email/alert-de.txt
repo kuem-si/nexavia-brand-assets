@@ -1,0 +1,16 @@
+Subject: Durchfluss über Grenzwert · Zähler 4471-02
+
+Durchfluss über Grenzwert
+
+Zähler 4471-02 misst einen Durchfluss über dem eingestellten Grenzwert. Prüfen Sie das Ventil oder bestätigen Sie die Warnung.
+
+Standort: Vzorčevo · cona 2
+Seit: 06.11.2026, 08:42
+Wert: 18,4 m³/h (Grenzwert 12,0 m³/h)
+Organisation: Komunala Vzorec d.o.o.
+
+Warnung öffnen: {{ALERT_URL}}
+
+--
+Sie erhalten diese Nachricht, weil Sie Nexavia für Komunala Vzorec d.o.o. nutzen.
+Benachrichtigungseinstellungen: {{SETTINGS_URL}}

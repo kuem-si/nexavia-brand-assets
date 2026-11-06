@@ -1,0 +1,11 @@
+Subject: Povabilo v Nexavia Enterprise
+
+Povabljeni ste v Nexavia Enterprise
+
+Skrbnik organizacije Komunala Vzorec d.o.o. vas je povabil kot operaterja. Povabilo velja 7 dni.
+
+Sprejmi povabilo: {{INVITE_URL}}
+
+--
+To sporočilo ste prejeli, ker ste uporabnik storitve Nexavia za organizacijo Komunala Vzorec d.o.o.
+Nastavitve obveščanja: {{SETTINGS_URL}}

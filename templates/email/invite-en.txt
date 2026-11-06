@@ -1,0 +1,11 @@
+Subject: Invitation to Nexavia Enterprise
+
+You are invited to Nexavia Enterprise
+
+An administrator at Komunala Vzorec d.o.o. invited you as an operator. The invitation is valid for 7 days.
+
+Accept invitation: {{INVITE_URL}}
+
+--
+You received this message because you use Nexavia for Komunala Vzorec d.o.o.
+Notification settings: {{SETTINGS_URL}}

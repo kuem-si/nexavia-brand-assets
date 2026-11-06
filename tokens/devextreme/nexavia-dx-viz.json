@@ -1,0 +1,186 @@
+{
+  "_comment": "GENERATED from design-tokens/ by scripts/tokens/build.py. Do not edit. Status: APPROVED values (ADR 0003); high-contrast modes APPROVED (ADR 0005). Palette and line rules for DevExtreme viz (Chart/PieChart/VectorMap) via registerPalette and series options.",
+  "members": {
+    "enterprise": {
+      "light": {
+        "series01": "#2B2F8F",
+        "compare": "#706B88",
+        "grid": "#DCD8EC",
+        "text": "#5A5671"
+      },
+      "dark": {
+        "series01": "#C7CCFF",
+        "compare": "#8A85A6",
+        "grid": "#34304A",
+        "text": "#A19DB8"
+      },
+      "light-hc": {
+        "series01": "#2B2F8F",
+        "compare": "#5A5671",
+        "grid": "#8A85A6",
+        "text": "#423E58"
+      },
+      "dark-hc": {
+        "series01": "#C7CCFF",
+        "compare": "#A19DB8",
+        "grid": "#706B88",
+        "text": "#CDC9DF"
+      }
+    },
+    "consumer": {
+      "light": {
+        "series01": "#A0307A",
+        "compare": "#706B88",
+        "grid": "#DCD8EC",
+        "text": "#5A5671"
+      },
+      "dark": {
+        "series01": "#F3A5D6",
+        "compare": "#8A85A6",
+        "grid": "#34304A",
+        "text": "#A19DB8"
+      },
+      "light-hc": {
+        "series01": "#892969",
+        "compare": "#5A5671",
+        "grid": "#8A85A6",
+        "text": "#423E58"
+      },
+      "dark-hc": {
+        "series01": "#F8C6E6",
+        "compare": "#A19DB8",
+        "grid": "#706B88",
+        "text": "#CDC9DF"
+      }
+    }
+  },
+  "palettes": {
+    "light": {
+      "categorical": [
+        "#495CC9",
+        "#09A0A0",
+        "#D8732B",
+        "#8141A4",
+        "#79922B",
+        "#4BA8E0",
+        "#CFA529",
+        "#B7447E"
+      ],
+      "sequential": [
+        "#CEF0EF",
+        "#9BDCDB",
+        "#61C7C7",
+        "#09AEAE",
+        "#048F90",
+        "#076F6F",
+        "#025050"
+      ],
+      "diverging": [
+        "#056262",
+        "#029393",
+        "#4AC6C6",
+        "#EAE7F5",
+        "#F4975B",
+        "#C3610D",
+        "#853F01"
+      ]
+    },
+    "dark": {
+      "categorical": [
+        "#6A81F2",
+        "#09A0A0",
+        "#D16D23",
+        "#A05FC4",
+        "#79922B",
+        "#3D9CD3",
+        "#B48C05",
+        "#CB5790"
+      ],
+      "sequential": [
+        "#0D3534",
+        "#034D4D",
+        "#006869",
+        "#028586",
+        "#05A7A7",
+        "#3EC8C7",
+        "#82E8E8"
+      ],
+      "diverging": [
+        "#57CCCC",
+        "#00A0A1",
+        "#007272",
+        "#34304A",
+        "#9A4901",
+        "#D16E24",
+        "#F99E64"
+      ]
+    },
+    "light-hc": {
+      "categorical": [
+        "#586DDC",
+        "#048484",
+        "#BC5B03",
+        "#9B5BBF",
+        "#677E0E",
+        "#107DB2",
+        "#927105",
+        "#BF4C86"
+      ],
+      "sequential": [
+        "#CEF0EF",
+        "#9BDCDB",
+        "#61C7C7",
+        "#09AEAE",
+        "#048F90",
+        "#076F6F",
+        "#025050"
+      ],
+      "diverging": [
+        "#056262",
+        "#029393",
+        "#4AC6C6",
+        "#EAE7F5",
+        "#F4975B",
+        "#C3610D",
+        "#853F01"
+      ]
+    },
+    "dark-hc": {
+      "categorical": [
+        "#5F74E4",
+        "#029393",
+        "#C3610D",
+        "#A05FC4",
+        "#738C24",
+        "#2589BF",
+        "#9E7B03",
+        "#C6528C"
+      ],
+      "sequential": [
+        "#0D3534",
+        "#034D4D",
+        "#006869",
+        "#028586",
+        "#05A7A7",
+        "#3EC8C7",
+        "#82E8E8"
+      ],
+      "diverging": [
+        "#57CCCC",
+        "#00A0A1",
+        "#007272",
+        "#34304A",
+        "#9A4901",
+        "#D16E24",
+        "#F99E64"
+      ]
+    }
+  },
+  "paletteRules": "APPROVED (ADR 0007). Member-neutral. Categorical colours are assigned in fixed order and follow the entity, never its rank; a 9th series folds into 'Other'. Status colours are never used as series colours.",
+  "rules": {
+    "estimated": "dashStyle 'dot' for lines; hatching pattern for bars",
+    "compare": "dashStyle 'dash', width 1.5",
+    "measured": "solid, width 2.5",
+    "gap": "constant line band, label 'no data'"
+  }
+}

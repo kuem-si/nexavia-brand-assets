@@ -1,8 +1,8 @@
 # Nexavia brand assets
 
-Official, approved brand assets for **Nexavia** and its applications **Nexavia Enterprise** and **Nexavia Consumer** (working name). Identity release **v1.5.0**.
+Official, approved brand assets for **Nexavia** and its applications **Nexavia Enterprise** and **Nexavia Consumer** (working name). Identity release **v1.6.0**.
 
-Start with the brand guidelines: [`guidelines/nexavia-brand-guidelines-1.5.0.pdf`](guidelines/nexavia-brand-guidelines-1.5.0.pdf) (also as offline HTML, which follows light or dark mode).
+Start with the brand guidelines: [`guidelines/nexavia-brand-guidelines-1.6.0.pdf`](guidelines/nexavia-brand-guidelines-1.6.0.pdf) (also as offline HTML, which follows light or dark mode).
 
 ## Contents
 

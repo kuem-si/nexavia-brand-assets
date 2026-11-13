@@ -24,6 +24,7 @@ public struct NexaviaColors: Sendable {
     public let critical: Color
     public let warning: Color
     public let success: Color
+    public let info: Color
     public let statusNeutral: Color
     public let offline: Color
     public let logoInk: Color
@@ -73,6 +74,7 @@ public struct NexaviaColors: Sendable {
             critical: dyn(UIColor(red: 180/255, green: 35/255, blue: 42/255, alpha: 1), UIColor(red: 255/255, green: 123/255, blue: 123/255, alpha: 1), UIColor(red: 154/255, green: 30/255, blue: 36/255, alpha: 1), UIColor(red: 255/255, green: 154/255, blue: 154/255, alpha: 1)),
             warning: dyn(UIColor(red: 138/255, green: 90/255, blue: 0/255, alpha: 1), UIColor(red: 242/255, green: 181/255, blue: 58/255, alpha: 1), UIColor(red: 109/255, green: 71/255, blue: 0/255, alpha: 1), UIColor(red: 242/255, green: 181/255, blue: 58/255, alpha: 1)),
             success: dyn(UIColor(red: 28/255, green: 115/255, blue: 67/255, alpha: 1), UIColor(red: 91/255, green: 203/255, blue: 145/255, alpha: 1), UIColor(red: 22/255, green: 91/255, blue: 53/255, alpha: 1), UIColor(red: 91/255, green: 203/255, blue: 145/255, alpha: 1)),
+            info: dyn(UIColor(red: 11/255, green: 100/255, blue: 152/255, alpha: 1), UIColor(red: 101/255, green: 185/255, blue: 233/255, alpha: 1), UIColor(red: 9/255, green: 82/255, blue: 125/255, alpha: 1), UIColor(red: 154/255, green: 210/255, blue: 242/255, alpha: 1)),
             statusNeutral: dyn(UIColor(red: 79/255, green: 88/255, blue: 98/255, alpha: 1), UIColor(red: 167/255, green: 176/255, blue: 186/255, alpha: 1), UIColor(red: 72/255, green: 80/255, blue: 90/255, alpha: 1), UIColor(red: 167/255, green: 176/255, blue: 186/255, alpha: 1)),
             offline: dyn(UIColor(red: 95/255, green: 102/255, blue: 112/255, alpha: 1), UIColor(red: 154/255, green: 161/255, blue: 170/255, alpha: 1), UIColor(red: 75/255, green: 80/255, blue: 88/255, alpha: 1), UIColor(red: 179/255, green: 185/255, blue: 192/255, alpha: 1)),
             logoInk: dyn(UIColor(red: 0/255, green: 0/255, blue: 0/255, alpha: 1), UIColor(red: 255/255, green: 255/255, blue: 255/255, alpha: 1), UIColor(red: 0/255, green: 0/255, blue: 0/255, alpha: 1), UIColor(red: 255/255, green: 255/255, blue: 255/255, alpha: 1)),
@@ -120,6 +122,7 @@ public struct NexaviaColors: Sendable {
             critical: dyn(UIColor(red: 180/255, green: 35/255, blue: 42/255, alpha: 1), UIColor(red: 255/255, green: 123/255, blue: 123/255, alpha: 1), UIColor(red: 154/255, green: 30/255, blue: 36/255, alpha: 1), UIColor(red: 255/255, green: 154/255, blue: 154/255, alpha: 1)),
             warning: dyn(UIColor(red: 138/255, green: 90/255, blue: 0/255, alpha: 1), UIColor(red: 242/255, green: 181/255, blue: 58/255, alpha: 1), UIColor(red: 109/255, green: 71/255, blue: 0/255, alpha: 1), UIColor(red: 242/255, green: 181/255, blue: 58/255, alpha: 1)),
             success: dyn(UIColor(red: 28/255, green: 115/255, blue: 67/255, alpha: 1), UIColor(red: 91/255, green: 203/255, blue: 145/255, alpha: 1), UIColor(red: 22/255, green: 91/255, blue: 53/255, alpha: 1), UIColor(red: 91/255, green: 203/255, blue: 145/255, alpha: 1)),
+            info: dyn(UIColor(red: 11/255, green: 100/255, blue: 152/255, alpha: 1), UIColor(red: 101/255, green: 185/255, blue: 233/255, alpha: 1), UIColor(red: 9/255, green: 82/255, blue: 125/255, alpha: 1), UIColor(red: 154/255, green: 210/255, blue: 242/255, alpha: 1)),
             statusNeutral: dyn(UIColor(red: 79/255, green: 88/255, blue: 98/255, alpha: 1), UIColor(red: 167/255, green: 176/255, blue: 186/255, alpha: 1), UIColor(red: 72/255, green: 80/255, blue: 90/255, alpha: 1), UIColor(red: 167/255, green: 176/255, blue: 186/255, alpha: 1)),
             offline: dyn(UIColor(red: 95/255, green: 102/255, blue: 112/255, alpha: 1), UIColor(red: 154/255, green: 161/255, blue: 170/255, alpha: 1), UIColor(red: 75/255, green: 80/255, blue: 88/255, alpha: 1), UIColor(red: 179/255, green: 185/255, blue: 192/255, alpha: 1)),
             logoInk: dyn(UIColor(red: 0/255, green: 0/255, blue: 0/255, alpha: 1), UIColor(red: 255/255, green: 255/255, blue: 255/255, alpha: 1), UIColor(red: 0/255, green: 0/255, blue: 0/255, alpha: 1), UIColor(red: 255/255, green: 255/255, blue: 255/255, alpha: 1)),

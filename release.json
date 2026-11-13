@@ -2,18 +2,18 @@
   "schemaVersion": 1,
   "product": "nexavia",
   "kind": "assets",
-  "version": "v1.5.0",
-  "tag": "v1.5.0",
-  "approvedBy": "docs/decisions/0013-release-v1.5.0.md",
+  "version": "v1.6.0",
+  "tag": "v1.6.0",
+  "approvedBy": "docs/decisions/0016-release-v1.6.0.md",
   "source": {
     "repository": "kuem-si/nexavia-visual-identity",
-    "tag": "v1.5.0",
-    "commit": "990427cbbb45630f06061ebf84dcd86b4a162f96"
+    "tag": "v1.6.0",
+    "commit": "362421101714ca90abcd465435f10ed63a3413a8"
   },
   "outputs": [
     {
       "path": "README.md",
-      "sha256": "0197b38ad110d138cd96c39e5fb48bd9bc0c4e60dfd7f61d65be5c995ef2c889"
+      "sha256": "a45a85108ee9afb0d10c007d3e3069dfeffd9f30fab32e8a0aeeebb4ea913863"
     },
     {
       "path": "app-icons/consumer/android-adaptive-background.svg",
@@ -128,12 +128,12 @@
       "sha256": "7f3f35bff4e3f26df500c8874e854703521031e4b1c333fb5e032c42b8d23fbd"
     },
     {
-      "path": "guidelines/nexavia-brand-guidelines-1.5.0.pdf",
-      "sha256": "72bc34c0171914a3294f5c5a32766ebdb7a485f9e1a1673dd4e9e60b1e189de6"
+      "path": "guidelines/nexavia-brand-guidelines-1.6.0.pdf",
+      "sha256": "0bb726078ecbd82aef5332fd60783c0fb23d0a636adaa811cf3fdc45339228aa"
     },
     {
       "path": "guidelines/nexavia-brand-guidelines.html",
-      "sha256": "eafaeb0eb89805ce06d16a13211e7464e5933892a3964792a490d1c13eb5ec43"
+      "sha256": "bb31ff6c96e7f1a0267c53fde0f8bb9f95c384d48b99b6059a2f634371633095"
     },
     {
       "path": "illustrations/consumer/dark/access-shared.svg",
@@ -1033,7 +1033,7 @@
     },
     {
       "path": "tokens/android/NexaviaTokens.kt",
-      "sha256": "d1891106ced27cac779fcb4d1a41d2fc279be49dfd0118bde6cbb98679ed7193"
+      "sha256": "b69466643a7fd6fca2f959b0636d7aa16c51f8a2d4fba7b0777633797049bf20"
     },
     {
       "path": "tokens/apple/NexaviaColors.xcassets/ConsumerAccent.colorset/Contents.json",
@@ -1401,7 +1401,7 @@
     },
     {
       "path": "tokens/apple/NexaviaTokens.swift",
-      "sha256": "780f427fa110c4663dbe73d17ec2f458fc03a83712bc2909bf314660e497ed84"
+      "sha256": "67febce28dddde4fbbb7059944b54e86788be002c4dfd03317304ab0b2c23369"
     },
     {
       "path": "tokens/devextreme/nexavia-dx-viz.json",
@@ -1441,11 +1441,11 @@
     },
     {
       "path": "tokens/nexavia.tokens.css",
-      "sha256": "7f07732ebd5e4c24672e477bc8a4369801d8e6e75f728907c9f5ebaba1f47d8a"
+      "sha256": "4b05a5af658c10ed8c2e38dad3c1acb200cc6ed0d92ecd80de8aae95c8e06b6f"
     },
     {
       "path": "tokens/nexavia.tokens.json",
-      "sha256": "988010999a21bf804ca57d60daa39ef28cd1575740974720b185931de0256036"
+      "sha256": "6b25b4a8c27246c4350cac0ae46901f4db8cf630c3877d9c0d5faed9f41f1378"
     },
     {
       "path": "ui/android-notification/consumer/res/drawable/ic_stat_nexavia.xml",

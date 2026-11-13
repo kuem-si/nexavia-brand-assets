@@ -1,0 +1,1603 @@
+{
+  "schemaVersion": 1,
+  "product": "nexavia",
+  "kind": "assets",
+  "version": "v1.5.0",
+  "tag": "v1.5.0",
+  "approvedBy": "docs/decisions/0013-release-v1.5.0.md",
+  "source": {
+    "repository": "kuem-si/nexavia-visual-identity",
+    "tag": "v1.5.0",
+    "commit": "990427cbbb45630f06061ebf84dcd86b4a162f96"
+  },
+  "outputs": [
+    {
+      "path": "README.md",
+      "sha256": "0197b38ad110d138cd96c39e5fb48bd9bc0c4e60dfd7f61d65be5c995ef2c889"
+    },
+    {
+      "path": "app-icons/consumer/android-adaptive-background.svg",
+      "sha256": "73245805b9c87691499a34362de8b5f8e0c0f8378695b49619cc18be4177e3b3"
+    },
+    {
+      "path": "app-icons/consumer/android-adaptive-foreground.svg",
+      "sha256": "b60f9ec298a4e7817fed26434feb650b0cf8466b8a52a98568eb1b4625b2538b"
+    },
+    {
+      "path": "app-icons/consumer/android-monochrome.svg",
+      "sha256": "b60f9ec298a4e7817fed26434feb650b0cf8466b8a52a98568eb1b4625b2538b"
+    },
+    {
+      "path": "app-icons/consumer/android-res/drawable/ic_launcher_foreground.xml",
+      "sha256": "7d62e80b4b290184865303d1418b06901bdba6da9f192efedd0d89d187f2139f"
+    },
+    {
+      "path": "app-icons/consumer/android-res/drawable/ic_launcher_monochrome.xml",
+      "sha256": "1b88ee3cc52add49ea9f4f035f68030e5bbf92f7d4b9179349cbaa1847bf1971"
+    },
+    {
+      "path": "app-icons/consumer/android-res/mipmap-anydpi-v26/ic_launcher.xml",
+      "sha256": "168e0b316279db5da86b860ca216307799fb80165cd7018b48479580a18be66e"
+    },
+    {
+      "path": "app-icons/consumer/android-res/values/ic_launcher_background.xml",
+      "sha256": "c65d2e31f0c466bf8075b0270d46ceb29ed9fd21d8c596584cbf3e4d77554c92"
+    },
+    {
+      "path": "app-icons/consumer/ios-dark-1024.svg",
+      "sha256": "6f263dc24fed8ab42aecd4d7099e8d89e9871a50ee3e54bd460419b333da60d4"
+    },
+    {
+      "path": "app-icons/consumer/ios-default-1024.svg",
+      "sha256": "410a0421a6a343ea0c850fc4e025a5067c46af62064f4b2d651b99881bf9b0c0"
+    },
+    {
+      "path": "app-icons/consumer/ios-tinted-1024.svg",
+      "sha256": "e401e5f31051b2ddc31e6c32c6f6a3bcd1f980238479c0935f9f69ce6c6d2d90"
+    },
+    {
+      "path": "app-icons/enterprise/android-adaptive-background.svg",
+      "sha256": "7b92eb87b382ef0c66755aaaec660b34328bb3b35aaf581783b0cd0594c9f4a5"
+    },
+    {
+      "path": "app-icons/enterprise/android-adaptive-foreground.svg",
+      "sha256": "b70ad8177653a352835afbb9febe33e4d3a1eb718a51ba810a17d30fb5ed35b5"
+    },
+    {
+      "path": "app-icons/enterprise/android-monochrome.svg",
+      "sha256": "b60f9ec298a4e7817fed26434feb650b0cf8466b8a52a98568eb1b4625b2538b"
+    },
+    {
+      "path": "app-icons/enterprise/android-res/drawable/ic_launcher_foreground.xml",
+      "sha256": "1b26a7395982418a68089bb3b7dc84557133fc70dc4e9933dc9cc2c2150552ea"
+    },
+    {
+      "path": "app-icons/enterprise/android-res/drawable/ic_launcher_monochrome.xml",
+      "sha256": "1b88ee3cc52add49ea9f4f035f68030e5bbf92f7d4b9179349cbaa1847bf1971"
+    },
+    {
+      "path": "app-icons/enterprise/android-res/mipmap-anydpi-v26/ic_launcher.xml",
+      "sha256": "168e0b316279db5da86b860ca216307799fb80165cd7018b48479580a18be66e"
+    },
+    {
+      "path": "app-icons/enterprise/android-res/values/ic_launcher_background.xml",
+      "sha256": "95d9474bae436a2c4992db12c5099dc1dc37bb93dcf3267e01569751317deee3"
+    },
+    {
+      "path": "app-icons/enterprise/ios-dark-1024.svg",
+      "sha256": "b3c5f4cf663aeabd8f6c09663b17b9f637dd1a9b8dd2e4cf388319bb57fb0129"
+    },
+    {
+      "path": "app-icons/enterprise/ios-default-1024.svg",
+      "sha256": "b3c5f4cf663aeabd8f6c09663b17b9f637dd1a9b8dd2e4cf388319bb57fb0129"
+    },
+    {
+      "path": "app-icons/enterprise/ios-tinted-1024.svg",
+      "sha256": "e401e5f31051b2ddc31e6c32c6f6a3bcd1f980238479c0935f9f69ce6c6d2d90"
+    },
+    {
+      "path": "app-icons/store/consumer-google-play-512.png",
+      "sha256": "0b98420f42834258481c6b612bb6ade39b0b9e4480ad05505aeeaf4b452baf58"
+    },
+    {
+      "path": "app-icons/store/consumer-ios-dark-1024.png",
+      "sha256": "9767bd9998d218600953ce39ae2b396b45c87e687d9a068dc7b09eff1723a41b"
+    },
+    {
+      "path": "app-icons/store/consumer-ios-default-1024.png",
+      "sha256": "0b5fae954222e09ec44ea052cb47c7a55f1382c0a7297ebd86e5446d52ea22fc"
+    },
+    {
+      "path": "app-icons/store/consumer-ios-tinted-1024.png",
+      "sha256": "7f3f35bff4e3f26df500c8874e854703521031e4b1c333fb5e032c42b8d23fbd"
+    },
+    {
+      "path": "app-icons/store/enterprise-google-play-512.png",
+      "sha256": "5dc8e9c59bda8cac0b1fe4d2075bb161599c5bc98579bdaab5dc30ef46e92e64"
+    },
+    {
+      "path": "app-icons/store/enterprise-ios-dark-1024.png",
+      "sha256": "cb24e89e9edd33084655721fd41b16197de9b1a48a9a45435f94e8f516b124f2"
+    },
+    {
+      "path": "app-icons/store/enterprise-ios-default-1024.png",
+      "sha256": "cb24e89e9edd33084655721fd41b16197de9b1a48a9a45435f94e8f516b124f2"
+    },
+    {
+      "path": "app-icons/store/enterprise-ios-tinted-1024.png",
+      "sha256": "7f3f35bff4e3f26df500c8874e854703521031e4b1c333fb5e032c42b8d23fbd"
+    },
+    {
+      "path": "guidelines/nexavia-brand-guidelines-1.5.0.pdf",
+      "sha256": "72bc34c0171914a3294f5c5a32766ebdb7a485f9e1a1673dd4e9e60b1e189de6"
+    },
+    {
+      "path": "guidelines/nexavia-brand-guidelines.html",
+      "sha256": "eafaeb0eb89805ce06d16a13211e7464e5933892a3964792a490d1c13eb5ec43"
+    },
+    {
+      "path": "illustrations/consumer/dark/access-shared.svg",
+      "sha256": "68ca7e84d327aedaecf74754c6c242b3e2ce38b50dd8d3fa4d549de95a5c12a6"
+    },
+    {
+      "path": "illustrations/consumer/dark/alerts.svg",
+      "sha256": "e18437a905a7854c8efe65b6ad85e6eb79a27adf228e1cd129bac06534f70987"
+    },
+    {
+      "path": "illustrations/consumer/dark/connect-meter.svg",
+      "sha256": "11198f67239f0389dcdc014849f8429ebc63f85527248bd7d71a5c1c13a1ce06"
+    },
+    {
+      "path": "illustrations/consumer/dark/first-reading.svg",
+      "sha256": "43c07b55b10a13e21b7c7446091d34c0366b96e91d9f4d491b7140fda074256f"
+    },
+    {
+      "path": "illustrations/consumer/dark/home-readings.svg",
+      "sha256": "7ce0a037c6b68af156ec01e23df40c723cb9d7bf5f63520fbd78189eeeab795f"
+    },
+    {
+      "path": "illustrations/consumer/dark/locations.svg",
+      "sha256": "5a60abb0e8977ae82184cc240ddbdcb2cfd5c57cff9f9769810476ea0e759e04"
+    },
+    {
+      "path": "illustrations/consumer/dark/no-data-period.svg",
+      "sha256": "cb299089dad84387f2e843ae02039d107a83eda7e8fadd71b03fb81994453519"
+    },
+    {
+      "path": "illustrations/consumer/dark/not-found.svg",
+      "sha256": "14c0c37e9a9af27ecf7faeca206ef8473416aa4952a7ce31d929e1313cb67d17"
+    },
+    {
+      "path": "illustrations/consumer/dark/offline.svg",
+      "sha256": "71596cf01a05ca423091a8f260bd7cba8ba18f791f6a66e95a828f18f4383356"
+    },
+    {
+      "path": "illustrations/consumer/dark/reports.svg",
+      "sha256": "164098e648bcf391cf5cdbc251dc2ab6468774d3cc4032b9f8a171547f6cd303"
+    },
+    {
+      "path": "illustrations/consumer/light/access-shared.svg",
+      "sha256": "1a4d5c3b6020edd24243420bd8d93ec2d0d655337e9f0dab31b5e5121bdcce1c"
+    },
+    {
+      "path": "illustrations/consumer/light/alerts.svg",
+      "sha256": "79a809d7773c9e14c61322d3391904320e7b70b8fce7156006667e237107316f"
+    },
+    {
+      "path": "illustrations/consumer/light/connect-meter.svg",
+      "sha256": "9c9d100fcf6aa0021c5a4d5784ae2d4b72931c283e3155c81106ac447f43e147"
+    },
+    {
+      "path": "illustrations/consumer/light/first-reading.svg",
+      "sha256": "9d7b671436026938d8c4c107a6abc340a35df71acbf77f6d8dd9b9dd823e5fdb"
+    },
+    {
+      "path": "illustrations/consumer/light/home-readings.svg",
+      "sha256": "0627dca9e760ffe7f9bb46aa8742393e4b4739e3f4a0cb4f68016e30ca740b3a"
+    },
+    {
+      "path": "illustrations/consumer/light/locations.svg",
+      "sha256": "28393b258fe2cfa0d3b636a26796cb8c2cd42d3a96d8e164befff51e06172b34"
+    },
+    {
+      "path": "illustrations/consumer/light/no-data-period.svg",
+      "sha256": "b0d1060635d2f9d314ec06f106a5d16e5465a8b10a10b628eb2fbef8f7766006"
+    },
+    {
+      "path": "illustrations/consumer/light/not-found.svg",
+      "sha256": "09164f9297937a7387e4eea619eaf48a64253e5ac8c24032d0d6c16c84665abb"
+    },
+    {
+      "path": "illustrations/consumer/light/offline.svg",
+      "sha256": "85a54780f0f37b21ae457d1b6b6eb0a384aa33d5dbcbb458aa494443e92b0b8f"
+    },
+    {
+      "path": "illustrations/consumer/light/reports.svg",
+      "sha256": "5bf6a74e5c9fafe13c02e0716de84f2cce31b07ed52013cebe8f078696cbe84e"
+    },
+    {
+      "path": "illustrations/enterprise/dark/access-shared.svg",
+      "sha256": "6692a1769e6b85b34a617f2d5a446d3989de3c613dbb66285a1cffd016d467e9"
+    },
+    {
+      "path": "illustrations/enterprise/dark/alerts.svg",
+      "sha256": "b7528678058b1840f9b681bf287ba35793023d64a569cd7c55cf7096fbb9e94a"
+    },
+    {
+      "path": "illustrations/enterprise/dark/connect-meter.svg",
+      "sha256": "60aa0792627b27f3769bed0c113b1a4534ad4c787f34554e1064f34f10c34c26"
+    },
+    {
+      "path": "illustrations/enterprise/dark/first-reading.svg",
+      "sha256": "b1d31951b2dd39bcf6d166cd12a153b4d91f1063eb9478ce7208ed21b1ad8532"
+    },
+    {
+      "path": "illustrations/enterprise/dark/home-readings.svg",
+      "sha256": "0ff172f45665dea627025324657d5693776a52e04c7810bf7e93abe2b81b8ee9"
+    },
+    {
+      "path": "illustrations/enterprise/dark/locations.svg",
+      "sha256": "a8f1ff965e9bdd5e6d69283bdad99fbb1bcc73a6e7ec6432222dfd26f252b9a1"
+    },
+    {
+      "path": "illustrations/enterprise/dark/no-data-period.svg",
+      "sha256": "4fee58fd8d801bd6aaee86dbdc24d39b46900dd2250df2a27b8f82bf4fe9c1c6"
+    },
+    {
+      "path": "illustrations/enterprise/dark/not-found.svg",
+      "sha256": "3574f4324e84152cdce48a3f3ebef22237d1212a146b1e2623e8d04e87ecfcd4"
+    },
+    {
+      "path": "illustrations/enterprise/dark/offline.svg",
+      "sha256": "442b0e3904b87f83655f0e20a83c56a5a38c0d4076a791cc0b44748d5636035e"
+    },
+    {
+      "path": "illustrations/enterprise/dark/reports.svg",
+      "sha256": "2d663837561547f5b69381281fbcc13d56b43aa2fc70a25fea47affebb270ec4"
+    },
+    {
+      "path": "illustrations/enterprise/light/access-shared.svg",
+      "sha256": "2ec23685f0181e8d64e7d0dd74f545c320af2291115a3fbc6df32080e234ae05"
+    },
+    {
+      "path": "illustrations/enterprise/light/alerts.svg",
+      "sha256": "aac47d0899ad591155b1e76966a81fd0cb0c36c5ace10465574c59d951692630"
+    },
+    {
+      "path": "illustrations/enterprise/light/connect-meter.svg",
+      "sha256": "d6184339224f034b0bb081221ebdc92dee0fa2aa5997edabed3881aba3d30a26"
+    },
+    {
+      "path": "illustrations/enterprise/light/first-reading.svg",
+      "sha256": "909ff749e77a753467b62fe3e119597f13e77b248175964638a8128148c08b73"
+    },
+    {
+      "path": "illustrations/enterprise/light/home-readings.svg",
+      "sha256": "36df575f7a22292d37b4d08e226c819494ceab30fe81c548d2440f455699f6e9"
+    },
+    {
+      "path": "illustrations/enterprise/light/locations.svg",
+      "sha256": "190e204f7794377fd487e6ac15c6a850aa04b01be2ec47407631b41c7a2533a4"
+    },
+    {
+      "path": "illustrations/enterprise/light/no-data-period.svg",
+      "sha256": "96efe7b6fe07af5873197ccdbcca3842837acce98c433644e9c8cf9d028ac0fd"
+    },
+    {
+      "path": "illustrations/enterprise/light/not-found.svg",
+      "sha256": "d20e322280a81f80593b33f7d55829877d9fea1c39d9be6c959e01048a795928"
+    },
+    {
+      "path": "illustrations/enterprise/light/offline.svg",
+      "sha256": "1fc9a6e7af1f88ed6ab0860d80a84b69c37a0e216fefb420a4c3ede23eb3b193"
+    },
+    {
+      "path": "illustrations/enterprise/light/reports.svg",
+      "sha256": "8e88833cf8c76d6d2c3522df042d90934b703b1673518f9cb6726131ae798468"
+    },
+    {
+      "path": "illustrations/web/access-shared.svg",
+      "sha256": "0f2536c3ba01775551d1f12aed45dc1bf518476c2631dfa564f446ee6242af01"
+    },
+    {
+      "path": "illustrations/web/alerts.svg",
+      "sha256": "97b16e295ae34de45c98460a2064c55f817a393be14c55c70dd04d22ac940b95"
+    },
+    {
+      "path": "illustrations/web/connect-meter.svg",
+      "sha256": "0202b2c01b5766dc1f519e0422a7feaf1478b836bc2f00ea6fdf0a52a47df1bb"
+    },
+    {
+      "path": "illustrations/web/first-reading.svg",
+      "sha256": "0e103b1cf5e7b4ad4c5cdf10f9c4d39d9422cc32bd6e92ba7f36cd008b10a962"
+    },
+    {
+      "path": "illustrations/web/home-readings.svg",
+      "sha256": "4eb298bd0f41be799025a49931ce24b32df6f1eae101f5fa1075a943b492317d"
+    },
+    {
+      "path": "illustrations/web/locations.svg",
+      "sha256": "3ef91f2a4374098d8054f07146e2862d2c0382d726f80922926e2a0ce4f79e34"
+    },
+    {
+      "path": "illustrations/web/no-data-period.svg",
+      "sha256": "2a2cbc8f080eb70a9fb2ea0fea1525c12497eda914b548148091669fc0386932"
+    },
+    {
+      "path": "illustrations/web/not-found.svg",
+      "sha256": "e50494952228ce2ecce83e00267b387c671dfeda1092b0d7abb7b81dae0e9e9b"
+    },
+    {
+      "path": "illustrations/web/offline.svg",
+      "sha256": "297731017a41c00f2da535d907b87b41018adff1c5014bea4d49d025268d35d3"
+    },
+    {
+      "path": "illustrations/web/reports.svg",
+      "sha256": "1675ea4c3b5b2e42538985a81c5c67e5da7df293de7a8a900b6df464ebe68c52"
+    },
+    {
+      "path": "logo/lockups/nexavia-consumer-lockup-dark-120h.png",
+      "sha256": "0c9abf44b2c9515e9e04e43a9b6cf8ec7f01843d6120fc4f305a2161faec42a8"
+    },
+    {
+      "path": "logo/lockups/nexavia-consumer-lockup-dark-480h.png",
+      "sha256": "0a5b1c69d299d63f10e89c550afd2ffc3808db9317e087e425d16fca777adebc"
+    },
+    {
+      "path": "logo/lockups/nexavia-consumer-lockup-dark-mono-120h.png",
+      "sha256": "19d2a06ac412d3a567aff841a3eb73eddc26f1c42e332d25dd4624f05e93832d"
+    },
+    {
+      "path": "logo/lockups/nexavia-consumer-lockup-dark-mono-480h.png",
+      "sha256": "4e6dc94024b24d620263074c3ce8aa84ccc01af6245a0eac9eb6fbe1c7cb7858"
+    },
+    {
+      "path": "logo/lockups/nexavia-consumer-lockup-dark-mono.svg",
+      "sha256": "3dbf931d8625d92214918d3bc3296df0eaa00521edc026484dfae3030f12c22f"
+    },
+    {
+      "path": "logo/lockups/nexavia-consumer-lockup-dark.svg",
+      "sha256": "231dc50c177dab2417bd27c998eb86f661f563500428f3fc3d68938a4c7ea2d7"
+    },
+    {
+      "path": "logo/lockups/nexavia-consumer-lockup-light-120h.png",
+      "sha256": "1e2d5aa2b96cea0099b8573158df9202d6e131d96c7f41f632caf6a8418895ff"
+    },
+    {
+      "path": "logo/lockups/nexavia-consumer-lockup-light-480h.png",
+      "sha256": "84f2359e8085d569e2b857f65eb5ba8bb7a0485dcb34c1e98c259e674af3897c"
+    },
+    {
+      "path": "logo/lockups/nexavia-consumer-lockup-light-mono-120h.png",
+      "sha256": "d6c8afe69ed71e1a27b1cdce70276459975683101831d33f1b84028c4dcdb74f"
+    },
+    {
+      "path": "logo/lockups/nexavia-consumer-lockup-light-mono-480h.png",
+      "sha256": "9f3d972cb313291d7f058ced86358135da15781d8c2af9fdb117a05a65ec1258"
+    },
+    {
+      "path": "logo/lockups/nexavia-consumer-lockup-light-mono.svg",
+      "sha256": "341e77f688f3630f6762c9d44492a375d3caaddde643f6d28ef53d4622524b33"
+    },
+    {
+      "path": "logo/lockups/nexavia-consumer-lockup-light.svg",
+      "sha256": "8412258f95e62be82d46f04562557ab7317413b2962069b4b4c40555428a2314"
+    },
+    {
+      "path": "logo/lockups/nexavia-enterprise-lockup-dark-120h.png",
+      "sha256": "e7023a0d9bddf9df56d3a8f31192dd87ed6daef53af0e7e23f6e5deda6e0d304"
+    },
+    {
+      "path": "logo/lockups/nexavia-enterprise-lockup-dark-480h.png",
+      "sha256": "c7a01cbbb3661c997e1cc91cbfba0a60228a13dda030554e1e744066f78059f7"
+    },
+    {
+      "path": "logo/lockups/nexavia-enterprise-lockup-dark-mono-120h.png",
+      "sha256": "539d7c9c3fb08f154c1ec3b0f2ab6a686b731b5e19dc009116751ee63237a63e"
+    },
+    {
+      "path": "logo/lockups/nexavia-enterprise-lockup-dark-mono-480h.png",
+      "sha256": "d89b8cbc7d4be874fffc2b90061ae08ad0e60624765027d49b8e9a60499ed1d2"
+    },
+    {
+      "path": "logo/lockups/nexavia-enterprise-lockup-dark-mono.svg",
+      "sha256": "055bd7081faf65700f9807926e64cb94ee0ba1393c16c166df157c2760a045b7"
+    },
+    {
+      "path": "logo/lockups/nexavia-enterprise-lockup-dark.svg",
+      "sha256": "f932f4bca57b2581c13086576d8a826d6236fe4b7b0c1190cc9bae6de9e13515"
+    },
+    {
+      "path": "logo/lockups/nexavia-enterprise-lockup-light-120h.png",
+      "sha256": "82a3e3865bb85d79e1fb52106b44fa3a3aa82d3ceb13ebd43c9f69bb57a4fa0a"
+    },
+    {
+      "path": "logo/lockups/nexavia-enterprise-lockup-light-480h.png",
+      "sha256": "8315eaf3eb671fbcf4c4dfa69d4b635a7d46ed5f14ffa190e3c32933c43a0872"
+    },
+    {
+      "path": "logo/lockups/nexavia-enterprise-lockup-light-mono-120h.png",
+      "sha256": "05143b80c453a4142ff8b90599bfa5973c43161c6ad5c2d2ac698bdcf6fabe89"
+    },
+    {
+      "path": "logo/lockups/nexavia-enterprise-lockup-light-mono-480h.png",
+      "sha256": "cb27799a14f76fe62e5aa2c92a278c0aadc513f92830cf1e3df646983de84d2d"
+    },
+    {
+      "path": "logo/lockups/nexavia-enterprise-lockup-light-mono.svg",
+      "sha256": "f1ce29b6be58a7e3bab494bb843491681a2ad749645c8eab76e1777c16652329"
+    },
+    {
+      "path": "logo/lockups/nexavia-enterprise-lockup-light.svg",
+      "sha256": "6475133524d4b1b30fe91b4885864f177f5a91a7f0f394d767ec9bdbd4472049"
+    },
+    {
+      "path": "logo/master/NEXAVIA-favicon-negative-16px-16px.png",
+      "sha256": "dad69ad79901daa55174e48387a20feae26dedb5e5d4a72931fa57ffa4ee276f"
+    },
+    {
+      "path": "logo/master/NEXAVIA-favicon-negative-32px-32px.png",
+      "sha256": "64f70d2647e3d54c994f3bbf32c9cea9e2070b048b9030b4fd7f92a1f4f3840c"
+    },
+    {
+      "path": "logo/master/NEXAVIA-favicon-negative.png",
+      "sha256": "e4e3ff08079e010bc246de8a2696939a3bcf9a8a38842198038dd99e5401b75c"
+    },
+    {
+      "path": "logo/master/NEXAVIA-favicon-negative.svg",
+      "sha256": "fa5cc5b4c2eb87126ca851ec796be62651a4fee957cd8823219ccd2de23f24b0"
+    },
+    {
+      "path": "logo/master/NEXAVIA-negative-BW-1134px-425px.png",
+      "sha256": "a41650d95b1a264de95a2c4b637c60ecc62d7739ec8ed0603a46a2e5d1bb14fe"
+    },
+    {
+      "path": "logo/master/NEXAVIA-negative-BW.svg",
+      "sha256": "684f6bad0dcf7c5cd3e5c966b1c1aa2fcabfcd690b05864286b513767edfc201"
+    },
+    {
+      "path": "logo/master/NEXAVIA-negative-cutout-Black-1134px-425px.png",
+      "sha256": "97c0230fc783044f6ff88c674c38fff6e45037dedbc130debe5363275050e056"
+    },
+    {
+      "path": "logo/master/NEXAVIA-negative-cutout-Black.svg",
+      "sha256": "1601aa3b098c4f2713fa9ec5c0bb1c17fcb0e8fe0e61b94e9379013670dffd37"
+    },
+    {
+      "path": "logo/master/NEXAVIA-negative-cutout-White-1134px-425px.png",
+      "sha256": "1a7f571641a3b1cffb1c9518c144c2da9cfe6a39fd24c7ce489ccc72dc2e90db"
+    },
+    {
+      "path": "logo/master/NEXAVIA-negative-cutout-White.svg",
+      "sha256": "42ced7b008223c7f6de4e58daa9cc942fa855bac39ff7ac6f4c03b5dd84f4d79"
+    },
+    {
+      "path": "logo/master/NEXAVIA-positive-Black-1134px-425px.png",
+      "sha256": "ec3058bad7d1242e0ccc0b454e49153049f58d320aef8ebb77a9f6cfe8940364"
+    },
+    {
+      "path": "logo/master/NEXAVIA-positive-Black.svg",
+      "sha256": "bfacf57693c947488d11bee439bf6057923ac18bcb05836ab0ed632f300d29d9"
+    },
+    {
+      "path": "logo/master/NEXAVIA-positive-White-1134px-425px.png",
+      "sha256": "2af7ce426cd8822bab76be5419e7e3b68fc68a8ac99c525ebd0e576c5a39c64c"
+    },
+    {
+      "path": "logo/master/NEXAVIA-positive-White.svg",
+      "sha256": "3b610366f3d94b0e9484a846b4a9b8ea71e68cfa507b0c43da4ed492c201bd8b"
+    },
+    {
+      "path": "print/booth-screen-de-3840x2160.png",
+      "sha256": "d1435f32f6701e89a2c7a22e98b7d3bbcc1666285a25b91dc303ecb67e1b2891"
+    },
+    {
+      "path": "print/booth-screen-en-3840x2160.png",
+      "sha256": "8794eda103143262a7c5b10eac30d91f0da81de6d7de2619260ccce042a00331"
+    },
+    {
+      "path": "print/booth-screen-sl-3840x2160.png",
+      "sha256": "e3207a81904ea4857152b09799608cb1fa10b40551d954140339305827365691"
+    },
+    {
+      "path": "print/proofs/roll-up-consumer-de-grey.png",
+      "sha256": "d9376d4a3da43a7408f0c6d048d04b1636ce8349387b34cdfc720094f8fc6700"
+    },
+    {
+      "path": "print/proofs/roll-up-consumer-de.png",
+      "sha256": "994cd737d46e90383b6a45e6b1dc0ac3aba2a4ba84c2cd2e216f84a23f9cdc79"
+    },
+    {
+      "path": "print/proofs/roll-up-consumer-en-grey.png",
+      "sha256": "080ed11ad002cbfd0185d5bd6a016e8d4c398d5b4544189067306e6626d65ef7"
+    },
+    {
+      "path": "print/proofs/roll-up-consumer-en.png",
+      "sha256": "e1cf3ac915aba37f84e4b44fd8f5700b4141062c0e50fbcc72cf6643fd25c4cd"
+    },
+    {
+      "path": "print/proofs/roll-up-consumer-sl-grey.png",
+      "sha256": "f680531387b70b9bc31d39e5b37cdfdc2114aae896aa14fb8c8bdb00f3cebda6"
+    },
+    {
+      "path": "print/proofs/roll-up-consumer-sl.png",
+      "sha256": "89851da9604522c56b7ec26cf5235abdf50e0b01c38104ca1e572ddbccbce062"
+    },
+    {
+      "path": "print/proofs/roll-up-ecosystem-de-grey.png",
+      "sha256": "ea7a7157ba7bb166fab61b086a8a28d5060d3cb5c3d8c05f10db91ca6453fd34"
+    },
+    {
+      "path": "print/proofs/roll-up-ecosystem-de.png",
+      "sha256": "7635cd470d7c0c95066889f826916217c01804526730a213985a8c9f171fa469"
+    },
+    {
+      "path": "print/proofs/roll-up-ecosystem-en-grey.png",
+      "sha256": "a53ec322f8b142865fe2047c52672195102ab9f5343e5eb00dfa48c23e2cb0c9"
+    },
+    {
+      "path": "print/proofs/roll-up-ecosystem-en.png",
+      "sha256": "a64bd5f4eec5a2dd8d50e391749e6e3b92001b0423c9413e5d7cedccdfa838bf"
+    },
+    {
+      "path": "print/proofs/roll-up-ecosystem-sl-grey.png",
+      "sha256": "aae8927b58e90f266959b6707687e004d41cb20d18765c8e98a7405ce7beb0a3"
+    },
+    {
+      "path": "print/proofs/roll-up-ecosystem-sl.png",
+      "sha256": "609a617c94610a68d9c165da0ecbc67110442715c593c1e70f98e12221c8549d"
+    },
+    {
+      "path": "print/proofs/roll-up-enterprise-de-grey.png",
+      "sha256": "6024e7fedc183111e1f210427dd1e61c96e0618226956869bed49821b2b02387"
+    },
+    {
+      "path": "print/proofs/roll-up-enterprise-de.png",
+      "sha256": "af0d9554170ae9ce6fe8d0385f948998264c480acbd5dc1678327b8e9a919b69"
+    },
+    {
+      "path": "print/proofs/roll-up-enterprise-en-grey.png",
+      "sha256": "b57d0ef0e3d4b4e95d02f4f3bfd1b560e5a5de5ad0205bb1c4b40888cefc60b3"
+    },
+    {
+      "path": "print/proofs/roll-up-enterprise-en.png",
+      "sha256": "0e804074a7d8e4c8180c1f60de2688986c4301b2cd29c97b78e3c9754d58e587"
+    },
+    {
+      "path": "print/proofs/roll-up-enterprise-sl-grey.png",
+      "sha256": "324ba5b3badac7b9d31b726daede85e145cee9432ee1f25c32e1d485fad336ef"
+    },
+    {
+      "path": "print/proofs/roll-up-enterprise-sl.png",
+      "sha256": "8803da323c51c61e7db8b6fe9d5799c0019917ffce35691db291f494326a4e42"
+    },
+    {
+      "path": "print/proofs/scale-reference.png",
+      "sha256": "b32c3b3f7ba60701f3d723b4a781d14fe82100fe6bcb38862f2a177aed0eb8f4"
+    },
+    {
+      "path": "print/proofs/table-flag-dark-side-a-grey.png",
+      "sha256": "3d32ccbb9f42578e8da31c0a758e90d6c7e673eb95d493c96c05b4ecb8638a1e"
+    },
+    {
+      "path": "print/proofs/table-flag-dark-side-a.png",
+      "sha256": "c5a2c9dc95d491968e51b6181ece5ae2d2a4a4bb27dcdaff60fb1b719c117f02"
+    },
+    {
+      "path": "print/proofs/table-flag-dark-side-b-grey.png",
+      "sha256": "3f6df585140275982caef9a8878cef598c15dcee58bedbbfd053337db8a81394"
+    },
+    {
+      "path": "print/proofs/table-flag-dark-side-b.png",
+      "sha256": "964b324d8dfa78ce319caca8104df6a4a8b7c0cdc41697d50b5be349111afe9f"
+    },
+    {
+      "path": "print/proofs/table-flag-light-side-a-grey.png",
+      "sha256": "b427829df87fec6ff44352bc7bbd10e6eadcc5742eb24f5d0ca1accfcc55ae1e"
+    },
+    {
+      "path": "print/proofs/table-flag-light-side-a.png",
+      "sha256": "14ab093dfa549c4660f455b164b85bda133e8899ac24d218911392f7d8f81bab"
+    },
+    {
+      "path": "print/proofs/table-flag-light-side-b-grey.png",
+      "sha256": "67413b2abead23be6f18a47fe670c96132563e308dc3a6c0eba792424f88d501"
+    },
+    {
+      "path": "print/proofs/table-flag-light-side-b.png",
+      "sha256": "766b59f7e1becec3fe0f97b300edc4ad6be79fa4ce6624279c7fb43f0b27379e"
+    },
+    {
+      "path": "print/proofs/tent-card-de-grey.png",
+      "sha256": "89a54a666dfbe970641e1e152292bd19fc010d576c38c0d20108631f133527a4"
+    },
+    {
+      "path": "print/proofs/tent-card-de.png",
+      "sha256": "8acc91bf86730ac6bdf3922fbc76c3212318d3de88a2e3ed087a7ac36f51a705"
+    },
+    {
+      "path": "print/proofs/tent-card-en-grey.png",
+      "sha256": "db8ebb5f86afafbe41efc712031384443219823fea59c3c3613aae3bb9bc742f"
+    },
+    {
+      "path": "print/proofs/tent-card-en.png",
+      "sha256": "ccbbcb637ae7be675b19b6769d6b1260aeb689fc0525fe369d30975ef1279b29"
+    },
+    {
+      "path": "print/proofs/tent-card-sl-grey.png",
+      "sha256": "a9e24c1b37ed8497f54b3318dd3b991ec04172fadf5fd285c2e16ea934506aa7"
+    },
+    {
+      "path": "print/proofs/tent-card-sl.png",
+      "sha256": "63e9d517f620bbf7774139ff7b81b1f1c27793972442ef305219cc064905dc74"
+    },
+    {
+      "path": "print/roll-up-consumer-de.pdf",
+      "sha256": "04b4c6a0f734e84a199a21a608d878c7e771889b1248b1c3c32a00f187d3c76e"
+    },
+    {
+      "path": "print/roll-up-consumer-en.pdf",
+      "sha256": "b24316379a6c688c13246e0361114ea3c1b5040f1e5d7b9c6c8ea92ef2d4b9d7"
+    },
+    {
+      "path": "print/roll-up-consumer-sl.pdf",
+      "sha256": "18009d236580391d5b15343d33f3db8b9e6e9249ae0cbb7656f70f510d0fb9fe"
+    },
+    {
+      "path": "print/roll-up-ecosystem-de.pdf",
+      "sha256": "c4b930f92829c87a2b9e2dde6bbdcfe4b355e03ea84383e66bf6c23adba93b37"
+    },
+    {
+      "path": "print/roll-up-ecosystem-en.pdf",
+      "sha256": "68b3dbed70745e3c98b5de512168bc8a61c725d9587be7438d4c18a66e896c31"
+    },
+    {
+      "path": "print/roll-up-ecosystem-sl.pdf",
+      "sha256": "ccc59c2355c4ebb0785d614419da26ee179297c5b21d56a4a9d4c129207e6e9c"
+    },
+    {
+      "path": "print/roll-up-enterprise-de.pdf",
+      "sha256": "cf14ec2c8f33b891e37d618a6ab0794dc5847afbf9868ba8f6e4a60c7024d718"
+    },
+    {
+      "path": "print/roll-up-enterprise-en.pdf",
+      "sha256": "1162da79f4b738856b4770bc680e0c09194254b53d85904b79604c6880ffa3c9"
+    },
+    {
+      "path": "print/roll-up-enterprise-sl.pdf",
+      "sha256": "67804ea7a06ae49321a0b9553c44ed8905a4399f0508e6ba371aed04c9a1d55d"
+    },
+    {
+      "path": "print/table-flag-dark-side-a.pdf",
+      "sha256": "46eff7775c6ed346663e9c8b2fa3ed150b15eabd1420fd6421fd28f3663ce25c"
+    },
+    {
+      "path": "print/table-flag-dark-side-b.pdf",
+      "sha256": "6a06ecaa6ab1bddfd699dec9eeb8470ad3b57d4d5728e4a42b04a9ef962f7245"
+    },
+    {
+      "path": "print/table-flag-light-side-a.pdf",
+      "sha256": "283b95f5268096588b3fedd8bc75a8e311ed5e09869c4a8225b607528bf29c8f"
+    },
+    {
+      "path": "print/table-flag-light-side-b.pdf",
+      "sha256": "0a30068d9815db3a84213c49f7bd8599b3e5c8fc912e4c4271144b6723e8da3c"
+    },
+    {
+      "path": "print/tent-card-de.pdf",
+      "sha256": "75b85fbf4c198f430d3672ad5d8c7e49bb2303e8ec19b3dfa918e270f7c38c2c"
+    },
+    {
+      "path": "print/tent-card-en.pdf",
+      "sha256": "5cf16f190ec69d7b7075a9d7d849ff1176ad7f0c42b285a70728d3738eab6e45"
+    },
+    {
+      "path": "print/tent-card-sl.pdf",
+      "sha256": "bf0479097c546ff84739404ed3b62283ed16f87ad77164cd3d9efe7d4a25d2ab"
+    },
+    {
+      "path": "store/android-phone-consumer-dark.png",
+      "sha256": "fb235bbe141c7ea27763b9b4afe164c1689611a4fe8bcf82c917b84849712be2"
+    },
+    {
+      "path": "store/android-phone-consumer-light.png",
+      "sha256": "a773f98a825e3d750337e0338f7503d94d06c0770d8a8e8c48e486a091b0dcd6"
+    },
+    {
+      "path": "store/iphone-6.9-consumer-dark.png",
+      "sha256": "8336dcc8aa908b5006e461e7de645137cee834505cdd7d3acce7f37e1128df90"
+    },
+    {
+      "path": "store/iphone-6.9-consumer-light.png",
+      "sha256": "9cdf5c9a34e14c6b2fe1691b7ed9dc83b8c15ac7173556bdf9cb21c9c4b5a407"
+    },
+    {
+      "path": "store/link-preview/nexavia-consumer-1200x630.png",
+      "sha256": "4d21b4d39a2ae6d1ad9377cf789551d1614d2da60b52bd8ca16300ac3386a2c2"
+    },
+    {
+      "path": "store/link-preview/nexavia-enterprise-1200x630.png",
+      "sha256": "40ca7836bc0bee905aef0071cf15f90ddaf0b6f405a0ffb28b3e28caceba07c2"
+    },
+    {
+      "path": "templates/covers/nexavia-consumer-cover-dark-de-1920x1080.png",
+      "sha256": "ccf17d9cc2b8072416a057f5add119288d9adab1dc2f945b3b6daabeea738ae8"
+    },
+    {
+      "path": "templates/covers/nexavia-consumer-cover-dark-en-1920x1080.png",
+      "sha256": "2340450e4685e7d904e5d95a6a61d31f1087fd905f5d52bb8050f3e1cdf77327"
+    },
+    {
+      "path": "templates/covers/nexavia-consumer-cover-dark-sl-1920x1080.png",
+      "sha256": "5ebe78e0c5dcb589b611e06c63bc8396973898c86bef101b5cbcc2b4b86305da"
+    },
+    {
+      "path": "templates/covers/nexavia-consumer-cover-light-de-1920x1080.png",
+      "sha256": "cad665f80fed078842b33a349727657c0eb7a1e4cac9066011d227b2f4b151c0"
+    },
+    {
+      "path": "templates/covers/nexavia-consumer-cover-light-en-1920x1080.png",
+      "sha256": "7a611259a9e87d2529a2e9cdc7a1a8582fdf5061f166c4782f2b56bd00c98848"
+    },
+    {
+      "path": "templates/covers/nexavia-consumer-cover-light-sl-1920x1080.png",
+      "sha256": "d59613b0456e1f378feedb3dc77e0b999a80d87554e5913a7f8f9a793fd5125a"
+    },
+    {
+      "path": "templates/covers/nexavia-ecosystem-cover-dark-de-1920x1080.png",
+      "sha256": "fd603eadfa0e034789de573b720b65c75ce1d5a2b939f1c79c171db7703f34d5"
+    },
+    {
+      "path": "templates/covers/nexavia-ecosystem-cover-dark-en-1920x1080.png",
+      "sha256": "cf3c954ff240b8ee4e78f7c2ebc247d41cc77093057763a9ece8dc79de6f3f89"
+    },
+    {
+      "path": "templates/covers/nexavia-ecosystem-cover-dark-sl-1920x1080.png",
+      "sha256": "dbc793730c905448733eec678de30a8254f67fbb0f7443da5905347cbaa7ab7e"
+    },
+    {
+      "path": "templates/covers/nexavia-ecosystem-cover-light-de-1920x1080.png",
+      "sha256": "441dd97776ca78e1e133e80429ae84c2a5674cc612635fffca058e6d3f924331"
+    },
+    {
+      "path": "templates/covers/nexavia-ecosystem-cover-light-en-1920x1080.png",
+      "sha256": "00e16a0e5041a803144a1462bee22f889d6d7e20e2ec1e10541df415d66c2525"
+    },
+    {
+      "path": "templates/covers/nexavia-ecosystem-cover-light-sl-1920x1080.png",
+      "sha256": "6c3f4243ef24bf3b0582a57ca1b4b58af247cef6d2814c7661a16ed6bddf7ec4"
+    },
+    {
+      "path": "templates/covers/nexavia-enterprise-cover-dark-de-1920x1080.png",
+      "sha256": "bfc951e2887c02bd17f639eff33da3f5154dd5e20cca1f84f634fadf24f2ecb4"
+    },
+    {
+      "path": "templates/covers/nexavia-enterprise-cover-dark-en-1920x1080.png",
+      "sha256": "e61104e7b33d5ed67652a05101e86c50efa89255096367e7259fb7f757bf11ad"
+    },
+    {
+      "path": "templates/covers/nexavia-enterprise-cover-dark-sl-1920x1080.png",
+      "sha256": "2638bf2a0db4d8809aca76aeb7c971c6d41354c5968ebedb928b0ebd8602bc26"
+    },
+    {
+      "path": "templates/covers/nexavia-enterprise-cover-light-de-1920x1080.png",
+      "sha256": "a97761218cb94393d4e857354fdc8497e2fe11a629c3791abc2294c4348c2743"
+    },
+    {
+      "path": "templates/covers/nexavia-enterprise-cover-light-en-1920x1080.png",
+      "sha256": "86defb39c18c030657c7b62c2abb255232105a20f0f39f8fef9b7cb03a61a5f9"
+    },
+    {
+      "path": "templates/covers/nexavia-enterprise-cover-light-sl-1920x1080.png",
+      "sha256": "290fa627a69d7eb654696816fbd3ea422f5d2a9951e50f73169f88e71b0aa8ae"
+    },
+    {
+      "path": "templates/documents/nexavia-report-de.docx",
+      "sha256": "cdc595a86956475a0146851e93e1ba52a4b22f0cc2837ef3cb4f6c57a2f501af"
+    },
+    {
+      "path": "templates/documents/nexavia-report-de.pdf",
+      "sha256": "299c9f49d1ac73157454514f85757c3ddb5c67ae84e57e11353bbd4ffa700986"
+    },
+    {
+      "path": "templates/documents/nexavia-report-en.docx",
+      "sha256": "c3ae2485c79b2876778b05859713e97e1e2cc72c648db90405d53aca1d3d5317"
+    },
+    {
+      "path": "templates/documents/nexavia-report-en.pdf",
+      "sha256": "d928f6510b0f8c036b679a3903e3026b4816741d6617d8d77a5237f9faf1f936"
+    },
+    {
+      "path": "templates/documents/nexavia-report-sl.docx",
+      "sha256": "064b2e2b95588d23239bc7ce988b053476cb8d623478d5857b90d04faae59aed"
+    },
+    {
+      "path": "templates/documents/nexavia-report-sl.pdf",
+      "sha256": "dc48d197b05a01daddf9e7b25b167f099397ab484de70331e9fa089f67cef976"
+    },
+    {
+      "path": "templates/email/alert-de.html",
+      "sha256": "ee3b051c13210c42d92664e9a4086496227061f5c65b4599b4e5ced1cde288fd"
+    },
+    {
+      "path": "templates/email/alert-de.txt",
+      "sha256": "93bdfbf885aa0890beca287368f2b2dbc507cdfd1f3d4bd3d91ddc2075f69de9"
+    },
+    {
+      "path": "templates/email/alert-en.html",
+      "sha256": "cb670fdf4cd6d721fdf9f2bcbb99d0348df45548059a4bc1bcbdea030d9cad2d"
+    },
+    {
+      "path": "templates/email/alert-en.txt",
+      "sha256": "58112b0fbbe01fc2cf7878a1cf9e6efbf625155c4b3d52773c103b67df077391"
+    },
+    {
+      "path": "templates/email/alert-sl.html",
+      "sha256": "1806e3c4661c908cadfd82d6679e3a5d4e5a0e33740b6867ea65fc890a4ecef7"
+    },
+    {
+      "path": "templates/email/alert-sl.txt",
+      "sha256": "549175acc2635987a574c553e0ca0c0cd2bcf9f04ab7463e03ceffa7e89422f4"
+    },
+    {
+      "path": "templates/email/invite-de.html",
+      "sha256": "9065944badbc89c1d8302c88d75aa23b474fe79e8ae0c5fe5fb291e36bc20cf8"
+    },
+    {
+      "path": "templates/email/invite-de.txt",
+      "sha256": "19a984e79d5d59d2d825589ca29d2a0adb1b3a34f5e82588be23132ac93e73a2"
+    },
+    {
+      "path": "templates/email/invite-en.html",
+      "sha256": "b73b8c4159387bdeb1edc45290ffcc6e0e49c56b0593cf136af2f030b7770b14"
+    },
+    {
+      "path": "templates/email/invite-en.txt",
+      "sha256": "78678051fd03a9ca304758dff27a3b2f77de0a568b23ed124fcc183078c6c5ff"
+    },
+    {
+      "path": "templates/email/invite-sl.html",
+      "sha256": "bc4c744d8cfd3268891826bbb8464bcb1cbc541c48e4fde98a09e624fa1d019a"
+    },
+    {
+      "path": "templates/email/invite-sl.txt",
+      "sha256": "0ef6f8c11da0d970329418a8715916e0cc7bbcd161b21b0876c421ad38b17f4a"
+    },
+    {
+      "path": "templates/email/preview/alert-de-dark.png",
+      "sha256": "0dae382d69229e07feac684e804ca962184b77cadebf423f1a076d33f005e44b"
+    },
+    {
+      "path": "templates/email/preview/alert-de-light.png",
+      "sha256": "83b73f9377a322d601ce04e8d046ab34afc31436bf8b072aeec38cfb8d877d91"
+    },
+    {
+      "path": "templates/email/preview/alert-en-dark.png",
+      "sha256": "aa4a227f4a6a88b3c0f8e99fd31ef7a94b3c76dcd4b7a662597cf0583a37b7d4"
+    },
+    {
+      "path": "templates/email/preview/alert-en-light.png",
+      "sha256": "874785903887ab9ab49d90b4058510dc9335f1c0fd25238ccc775585c30879b8"
+    },
+    {
+      "path": "templates/email/preview/alert-sl-dark.png",
+      "sha256": "9a53c0b960ca88104fbb4f8bb94c888ccac9fa6cba6fa01a2276600bd3ecfc50"
+    },
+    {
+      "path": "templates/email/preview/alert-sl-light.png",
+      "sha256": "78b875f852719eed4cc9c8d4d574eef35cb9075e0c0b303f3274810f2ced8675"
+    },
+    {
+      "path": "templates/email/preview/invite-de-dark.png",
+      "sha256": "315d4a00f1b0977462787d022159a0038a2237b88bbb64db46fda1238ba07233"
+    },
+    {
+      "path": "templates/email/preview/invite-de-light.png",
+      "sha256": "d7f473a29c72eca77a592626c75de227c8d1eadfa956367dc7b92fed6a732c94"
+    },
+    {
+      "path": "templates/email/preview/invite-en-dark.png",
+      "sha256": "53ba2f0a503706b43dc58e1e976ab6ec3bee7d38748e69c968f65257e27b7c9d"
+    },
+    {
+      "path": "templates/email/preview/invite-en-light.png",
+      "sha256": "a984e1c12181218ebac6d99517d6ff879138c60252b472150f7462db28458199"
+    },
+    {
+      "path": "templates/email/preview/invite-sl-dark.png",
+      "sha256": "31ee9fc50576f3c6de247fe0ec33e2aeb5c41b335b8a22f066bef6c71d81ad8a"
+    },
+    {
+      "path": "templates/email/preview/invite-sl-light.png",
+      "sha256": "1be93c7e61e9d2a1b2709ec1b2dff2b4d98461849f86b579816afcb0a51e2562"
+    },
+    {
+      "path": "templates/github/org-avatar-500.png",
+      "sha256": "f328cec4ae449d0f4435562d4730839d2e3e1712cd5a6352df59b4104d5e23ef"
+    },
+    {
+      "path": "templates/github/social-preview-nexavia-brand-assets-1280x640.png",
+      "sha256": "da69f84f806c498b4c15b0d52a86933be9b14acb130f4c7d4b472d344eaa5044"
+    },
+    {
+      "path": "templates/github/social-preview-nexavia-enterprise-docs-1280x640.png",
+      "sha256": "304534eac6595f7db8478551cbbbee2a00477e9feccc030e915709d42f07ade8"
+    },
+    {
+      "path": "templates/slides/nexavia-deck-de.pdf",
+      "sha256": "a58d72388928bff68d9265fd25b0f17e64cf68eec4c6a8f63e622cc592cb8a5e"
+    },
+    {
+      "path": "templates/slides/nexavia-deck-de.pptx",
+      "sha256": "a2a83b9cf7b7a018e24c57df3faf6dd5576195761f2763ead74863a48c49b8f7"
+    },
+    {
+      "path": "templates/slides/nexavia-deck-en.pdf",
+      "sha256": "32b4ab9770f9eb362f4255a881e4f559f56ee471cc9009b22b92e429d83fa8d5"
+    },
+    {
+      "path": "templates/slides/nexavia-deck-en.pptx",
+      "sha256": "18f4e59335669700ef1ca441432f4da0b27d9f776cd603f406651b6eea70b7ea"
+    },
+    {
+      "path": "templates/slides/nexavia-deck-sl.pdf",
+      "sha256": "a94cad83eafd6408928d34fdc1910bf08dbea941be01c30d80722f923ba4b1a4"
+    },
+    {
+      "path": "templates/slides/nexavia-deck-sl.pptx",
+      "sha256": "664af7445da412cab8ef85697cdbaec528f23ca5391aee628a48c72976680351"
+    },
+    {
+      "path": "templates/social/linkedin-cover-consumer-de-1128x191.png",
+      "sha256": "55153e2020dbf4e5d30e2b9be2b0f360a5278af76e7e1bbbaf8f45d6b1f4a607"
+    },
+    {
+      "path": "templates/social/linkedin-cover-consumer-en-1128x191.png",
+      "sha256": "a7148b651a4e86b6efcf78129fab82363f9958c8ea8e92604d17f5510bdea8fb"
+    },
+    {
+      "path": "templates/social/linkedin-cover-consumer-sl-1128x191.png",
+      "sha256": "c87c866349cb9e78b688bc6ad8f585bbb4e4e646ec64942126824d9b0ba9334e"
+    },
+    {
+      "path": "templates/social/linkedin-cover-ecosystem-de-1128x191.png",
+      "sha256": "4863ef494232aa7401d8efa51954c449e253d1908d7ad09710e401642c9ad1d0"
+    },
+    {
+      "path": "templates/social/linkedin-cover-ecosystem-en-1128x191.png",
+      "sha256": "3fdf7bf7d473f78b661a150ada9f2711ae24356ba370388389d4ac65043c6dfb"
+    },
+    {
+      "path": "templates/social/linkedin-cover-ecosystem-sl-1128x191.png",
+      "sha256": "23e47501e3f4745ae6c82904d0dc357cba9aa8f016583736df36b349994b5fc4"
+    },
+    {
+      "path": "templates/social/linkedin-cover-enterprise-de-1128x191.png",
+      "sha256": "37c2e7c8a8157e9b725b0bc6fb5b87cb476d0d8d5de5f4f2bb1994cc4701aa34"
+    },
+    {
+      "path": "templates/social/linkedin-cover-enterprise-en-1128x191.png",
+      "sha256": "0d5ba59736440f388bf9ebb2d1d47a75d7f0f7990624c2b82655c90124b6b41f"
+    },
+    {
+      "path": "templates/social/linkedin-cover-enterprise-sl-1128x191.png",
+      "sha256": "95a39bbdf1443998a45aa3557f1f526a5a919ab68a6cd68219013596704181d2"
+    },
+    {
+      "path": "templates/social/post-announcement-dark-de-1080x1080.png",
+      "sha256": "925374244b80f2c66c1f874112c3644f3ddd3f8402ed25875f9b5bdb0ac4d671"
+    },
+    {
+      "path": "templates/social/post-announcement-dark-de-1080x1350.png",
+      "sha256": "c2b88065f58e99c577436f9f2b872614c82d1b5eda6913b67ed49b10db8940e5"
+    },
+    {
+      "path": "templates/social/post-announcement-dark-en-1080x1080.png",
+      "sha256": "adc24cac959d1833c7e6695ee89c265e17a0c882df833de0a16b98f9ca0406db"
+    },
+    {
+      "path": "templates/social/post-announcement-dark-en-1080x1350.png",
+      "sha256": "5299c3626414a5f8a99b1e08e2184b4d5decd1a07ff7183e492894052b2fe3ee"
+    },
+    {
+      "path": "templates/social/post-announcement-dark-sl-1080x1080.png",
+      "sha256": "bf3653af9cb7f74139c2bfb4224dafbb417a897b89e32c2e7f0288c9453a0ff1"
+    },
+    {
+      "path": "templates/social/post-announcement-dark-sl-1080x1350.png",
+      "sha256": "cc5fa288a34ca2c24ae42fe7b0b37dac9b5ab752f279f9373cb6bd9106f49f94"
+    },
+    {
+      "path": "templates/social/post-announcement-light-de-1080x1080.png",
+      "sha256": "23993479ee89e2868cd585b6d2ba0ed727888a5cc99d453af2fbc21d405d5f66"
+    },
+    {
+      "path": "templates/social/post-announcement-light-de-1080x1350.png",
+      "sha256": "408a171d3d4dfa41247105b99439eeee9be8935b1e9bd28ceb4a48a842726872"
+    },
+    {
+      "path": "templates/social/post-announcement-light-en-1080x1080.png",
+      "sha256": "4cf7a7bcebac004e8ce077d11a0ec15fad892313b07553f30dfcd33c5422a7a5"
+    },
+    {
+      "path": "templates/social/post-announcement-light-en-1080x1350.png",
+      "sha256": "25471bd1ac76b3a33d47012879805f9b9e6b1ec26096266825867459c543d0a5"
+    },
+    {
+      "path": "templates/social/post-announcement-light-sl-1080x1080.png",
+      "sha256": "77df1659e957f44803298b456129eb327475d189bfe54ee1ed8437cac45df65a"
+    },
+    {
+      "path": "templates/social/post-announcement-light-sl-1080x1350.png",
+      "sha256": "d6995d5e5f1e062e10c6a7e5c772127cb7f64114e2a1ee177a2e60c61b9c8c20"
+    },
+    {
+      "path": "tokens/android/NexaviaTokens.kt",
+      "sha256": "d1891106ced27cac779fcb4d1a41d2fc279be49dfd0118bde6cbb98679ed7193"
+    },
+    {
+      "path": "tokens/apple/NexaviaColors.xcassets/ConsumerAccent.colorset/Contents.json",
+      "sha256": "a7f51725016e8c2bf1a68352ae2b29a0473b2f983ca2f87808c4d44bad20fd2c"
+    },
+    {
+      "path": "tokens/apple/NexaviaColors.xcassets/ConsumerAppIconGlyph.colorset/Contents.json",
+      "sha256": "ccf99f26133edd13667f45fa59f3f072421f41ca0fc3190b5f438237678ced0e"
+    },
+    {
+      "path": "tokens/apple/NexaviaColors.xcassets/ConsumerAppIconTile.colorset/Contents.json",
+      "sha256": "8ba55645622a46197c242051e361f06961c2704950b3e30a2b2e145efeafa18e"
+    },
+    {
+      "path": "tokens/apple/NexaviaColors.xcassets/ConsumerBorderStrong.colorset/Contents.json",
+      "sha256": "2bbc26da79cac10628e0194b7f5b3ff2e879cc9cec58b648edfe5d4f9e847293"
+    },
+    {
+      "path": "tokens/apple/NexaviaColors.xcassets/ConsumerBorderSubtle.colorset/Contents.json",
+      "sha256": "772d387f7ab19cd5a3808213371ea23896158254f6166a186ca62b77d43f706d"
+    },
+    {
+      "path": "tokens/apple/NexaviaColors.xcassets/ConsumerCanvas.colorset/Contents.json",
+      "sha256": "7c34e70b045dfad992c1ba9eb04c603b85b484da81991d89700767542bcb035e"
+    },
+    {
+      "path": "tokens/apple/NexaviaColors.xcassets/ConsumerCritical.colorset/Contents.json",
+      "sha256": "00892888f829d23baf98a643a86b182f0bf75203cafd91f3a4c921345310002a"
+    },
+    {
+      "path": "tokens/apple/NexaviaColors.xcassets/ConsumerDataCat1.colorset/Contents.json",
+      "sha256": "57ab99acfaa1461fc163c9db080dfa6b88e8807154cbdaacd7f37f31422bf334"
+    },
+    {
+      "path": "tokens/apple/NexaviaColors.xcassets/ConsumerDataCat2.colorset/Contents.json",
+      "sha256": "4d9695ae51dd6f680e90771945e8775d47c053d1e6be02bce4c949fe005ea9da"
+    },
+    {
+      "path": "tokens/apple/NexaviaColors.xcassets/ConsumerDataCat3.colorset/Contents.json",
+      "sha256": "ee90005bda4a20b07502737f869fe0ae3682b93c6cc634feeee687a677bd2be2"
+    },
+    {
+      "path": "tokens/apple/NexaviaColors.xcassets/ConsumerDataCat4.colorset/Contents.json",
+      "sha256": "5ff63d6c3fdea45e89f4b90a545f336b661d071250cf95463b34f1c82922d468"
+    },
+    {
+      "path": "tokens/apple/NexaviaColors.xcassets/ConsumerDataCat5.colorset/Contents.json",
+      "sha256": "9b854dc14c664dd37275dc738289df74e611542b17209a4e4742047be166c269"
+    },
+    {
+      "path": "tokens/apple/NexaviaColors.xcassets/ConsumerDataCat6.colorset/Contents.json",
+      "sha256": "fad1026f8b8526a99f3b6dcd4058abd5219dd02636cbe344bf2e2e73a7d8234f"
+    },
+    {
+      "path": "tokens/apple/NexaviaColors.xcassets/ConsumerDataCat7.colorset/Contents.json",
+      "sha256": "ea6e578eb8cc34fbd9af0cff998898e4b7e32a415d0fccf1d8a69b6d1f578fe4"
+    },
+    {
+      "path": "tokens/apple/NexaviaColors.xcassets/ConsumerDataCat8.colorset/Contents.json",
+      "sha256": "149c0472199b44f0f3e39efc216fc7e4c5b1554066e1839e9a5c650787bd75d7"
+    },
+    {
+      "path": "tokens/apple/NexaviaColors.xcassets/ConsumerDataCompare.colorset/Contents.json",
+      "sha256": "3c0efd7fa5edddc60a76b6a1ea70a4661728b8caceebc64afdfd3bbcead0b2d9"
+    },
+    {
+      "path": "tokens/apple/NexaviaColors.xcassets/ConsumerDataDiv1.colorset/Contents.json",
+      "sha256": "0885fbdaf036378cd0a1431a776c74434d2f7a33fe8266c0b1a8182c2d368553"
+    },
+    {
+      "path": "tokens/apple/NexaviaColors.xcassets/ConsumerDataDiv2.colorset/Contents.json",
+      "sha256": "02b73eff9c94c9f9edf436b31a75240739044f07bbc6a7a9eda92275f61bb2a8"
+    },
+    {
+      "path": "tokens/apple/NexaviaColors.xcassets/ConsumerDataDiv3.colorset/Contents.json",
+      "sha256": "2443cb4520c579fb1184846db21ec276a56f3b8696513136af4c9d844e97f1b6"
+    },
+    {
+      "path": "tokens/apple/NexaviaColors.xcassets/ConsumerDataDiv4.colorset/Contents.json",
+      "sha256": "76b6d42bb2bc990cde8ab51cdf21f7abf46a02578087275d2fb97e6b290771f7"
+    },
+    {
+      "path": "tokens/apple/NexaviaColors.xcassets/ConsumerDataDiv5.colorset/Contents.json",
+      "sha256": "6f06d54d23d284fb6650bd90851522ee14a38f5a4d3f5c96584d2990c3be365b"
+    },
+    {
+      "path": "tokens/apple/NexaviaColors.xcassets/ConsumerDataDiv6.colorset/Contents.json",
+      "sha256": "d8c58a4a94c8122668868ba62e5dc91199c240f1affc68e025de24b258f730a5"
+    },
+    {
+      "path": "tokens/apple/NexaviaColors.xcassets/ConsumerDataDiv7.colorset/Contents.json",
+      "sha256": "6b0fc727d11554e5b9ac37852eb16e358869f9ae061b3c6e1a482d901737f1b3"
+    },
+    {
+      "path": "tokens/apple/NexaviaColors.xcassets/ConsumerDataGap.colorset/Contents.json",
+      "sha256": "970cf1eb745282897abb22725d38ef418c6756d40c7497bc2a21bb0925ac27b4"
+    },
+    {
+      "path": "tokens/apple/NexaviaColors.xcassets/ConsumerDataGrid.colorset/Contents.json",
+      "sha256": "858c081887553528ebce5e139f469033d2338e7398eef2715413c80728f1dd94"
+    },
+    {
+      "path": "tokens/apple/NexaviaColors.xcassets/ConsumerDataSeq1.colorset/Contents.json",
+      "sha256": "f5d1f58faab787a72da60e12ea7a2f357e6ed93538be5308a51625a623c1b3bb"
+    },
+    {
+      "path": "tokens/apple/NexaviaColors.xcassets/ConsumerDataSeq2.colorset/Contents.json",
+      "sha256": "c640b46b87c735b885d07609390be5cb64eec6bcd7b02ae8f802576b25871d22"
+    },
+    {
+      "path": "tokens/apple/NexaviaColors.xcassets/ConsumerDataSeq3.colorset/Contents.json",
+      "sha256": "9da213d54a090bbbfae3ebe95e978e98a6779279bb1c5fd012398df7d4a4268e"
+    },
+    {
+      "path": "tokens/apple/NexaviaColors.xcassets/ConsumerDataSeq4.colorset/Contents.json",
+      "sha256": "31ab0ccc91b5de5af3eed08d840fd702bf46709de34696d5d8443f64e8744787"
+    },
+    {
+      "path": "tokens/apple/NexaviaColors.xcassets/ConsumerDataSeq5.colorset/Contents.json",
+      "sha256": "d51d43769fbf36d709ff14177e1a1ff238a0b87b721c8b3e54fe16814ba73c1d"
+    },
+    {
+      "path": "tokens/apple/NexaviaColors.xcassets/ConsumerDataSeq6.colorset/Contents.json",
+      "sha256": "7f13eb9cd3ecc8aa54ee0893587ff5e3ffe11004fb96feae19cbd496fc093997"
+    },
+    {
+      "path": "tokens/apple/NexaviaColors.xcassets/ConsumerDataSeq7.colorset/Contents.json",
+      "sha256": "972d48d6424c27ca7a11e1adbe2013f9e05066a5df441373f76f53317f94b7bd"
+    },
+    {
+      "path": "tokens/apple/NexaviaColors.xcassets/ConsumerDataSeries01.colorset/Contents.json",
+      "sha256": "a7f51725016e8c2bf1a68352ae2b29a0473b2f983ca2f87808c4d44bad20fd2c"
+    },
+    {
+      "path": "tokens/apple/NexaviaColors.xcassets/ConsumerFocus.colorset/Contents.json",
+      "sha256": "a7f51725016e8c2bf1a68352ae2b29a0473b2f983ca2f87808c4d44bad20fd2c"
+    },
+    {
+      "path": "tokens/apple/NexaviaColors.xcassets/ConsumerLogoInk.colorset/Contents.json",
+      "sha256": "ccf99f26133edd13667f45fa59f3f072421f41ca0fc3190b5f438237678ced0e"
+    },
+    {
+      "path": "tokens/apple/NexaviaColors.xcassets/ConsumerOffline.colorset/Contents.json",
+      "sha256": "9183b75b567d63f656e233b8272495d477cec95965d04b60675ed668621a2663"
+    },
+    {
+      "path": "tokens/apple/NexaviaColors.xcassets/ConsumerOnAccent.colorset/Contents.json",
+      "sha256": "91133ac5f2a68d7698d1889866f619c341a61003a5b10ec24a967077dbdb8b18"
+    },
+    {
+      "path": "tokens/apple/NexaviaColors.xcassets/ConsumerRaised.colorset/Contents.json",
+      "sha256": "3404a06a52d5d600f9498ad1cd7f6cef8883e5b8c779e46e6823d88601458616"
+    },
+    {
+      "path": "tokens/apple/NexaviaColors.xcassets/ConsumerStatusNeutral.colorset/Contents.json",
+      "sha256": "fe8d943b806ef1b0143a38cd319063764158fa36c4b418c4079721f7db53db07"
+    },
+    {
+      "path": "tokens/apple/NexaviaColors.xcassets/ConsumerSuccess.colorset/Contents.json",
+      "sha256": "000c9c80c7c4d36a409f04a9ec1758baefffe479e81097063413b6e25c190552"
+    },
+    {
+      "path": "tokens/apple/NexaviaColors.xcassets/ConsumerSunken.colorset/Contents.json",
+      "sha256": "696f56deda951943ee99aef9b542ce9f67a8cbd7c69a062b4e92d5df0d071863"
+    },
+    {
+      "path": "tokens/apple/NexaviaColors.xcassets/ConsumerTextMuted.colorset/Contents.json",
+      "sha256": "7e73abf2193636ca6763043f0a8b196f764175d5389b3f20de5fd14644c5bc38"
+    },
+    {
+      "path": "tokens/apple/NexaviaColors.xcassets/ConsumerTextPrimary.colorset/Contents.json",
+      "sha256": "8e437277002f17ed4e4e4c42be055bf18eb18565f6fc5402fbe8da257a628d45"
+    },
+    {
+      "path": "tokens/apple/NexaviaColors.xcassets/ConsumerTextSecondary.colorset/Contents.json",
+      "sha256": "bb4ce5cee8e64f8b30130affab3f24edce1c042f1bbcc41d141da44bc69e1db2"
+    },
+    {
+      "path": "tokens/apple/NexaviaColors.xcassets/ConsumerWarning.colorset/Contents.json",
+      "sha256": "6534d0eaeb8870e8bdb0e539beecec9c936742f18d15c75ef6e2fa3292d69d3c"
+    },
+    {
+      "path": "tokens/apple/NexaviaColors.xcassets/Contents.json",
+      "sha256": "dd8f4b886b57d5529006d9937fc653c1bf5fde9630bca5aa0ff32247a10a3fb0"
+    },
+    {
+      "path": "tokens/apple/NexaviaColors.xcassets/EnterpriseAccent.colorset/Contents.json",
+      "sha256": "161de54ab94cdc44481d4b32a79daabb74d6674e5b7a755a2b17ecf3fa0761d0"
+    },
+    {
+      "path": "tokens/apple/NexaviaColors.xcassets/EnterpriseAppIconGlyph.colorset/Contents.json",
+      "sha256": "9c12e2a811c533acd671227316bd1e0e2cfa71ab92961e41d59156eee0efe9b9"
+    },
+    {
+      "path": "tokens/apple/NexaviaColors.xcassets/EnterpriseAppIconTile.colorset/Contents.json",
+      "sha256": "296d6e6b806a4385e362d9688dacbdcae02d626518b33391bbbb263aa5db1da8"
+    },
+    {
+      "path": "tokens/apple/NexaviaColors.xcassets/EnterpriseBorderStrong.colorset/Contents.json",
+      "sha256": "2bbc26da79cac10628e0194b7f5b3ff2e879cc9cec58b648edfe5d4f9e847293"
+    },
+    {
+      "path": "tokens/apple/NexaviaColors.xcassets/EnterpriseBorderSubtle.colorset/Contents.json",
+      "sha256": "772d387f7ab19cd5a3808213371ea23896158254f6166a186ca62b77d43f706d"
+    },
+    {
+      "path": "tokens/apple/NexaviaColors.xcassets/EnterpriseCanvas.colorset/Contents.json",
+      "sha256": "7c34e70b045dfad992c1ba9eb04c603b85b484da81991d89700767542bcb035e"
+    },
+    {
+      "path": "tokens/apple/NexaviaColors.xcassets/EnterpriseCritical.colorset/Contents.json",
+      "sha256": "00892888f829d23baf98a643a86b182f0bf75203cafd91f3a4c921345310002a"
+    },
+    {
+      "path": "tokens/apple/NexaviaColors.xcassets/EnterpriseDataCat1.colorset/Contents.json",
+      "sha256": "57ab99acfaa1461fc163c9db080dfa6b88e8807154cbdaacd7f37f31422bf334"
+    },
+    {
+      "path": "tokens/apple/NexaviaColors.xcassets/EnterpriseDataCat2.colorset/Contents.json",
+      "sha256": "4d9695ae51dd6f680e90771945e8775d47c053d1e6be02bce4c949fe005ea9da"
+    },
+    {
+      "path": "tokens/apple/NexaviaColors.xcassets/EnterpriseDataCat3.colorset/Contents.json",
+      "sha256": "ee90005bda4a20b07502737f869fe0ae3682b93c6cc634feeee687a677bd2be2"
+    },
+    {
+      "path": "tokens/apple/NexaviaColors.xcassets/EnterpriseDataCat4.colorset/Contents.json",
+      "sha256": "5ff63d6c3fdea45e89f4b90a545f336b661d071250cf95463b34f1c82922d468"
+    },
+    {
+      "path": "tokens/apple/NexaviaColors.xcassets/EnterpriseDataCat5.colorset/Contents.json",
+      "sha256": "9b854dc14c664dd37275dc738289df74e611542b17209a4e4742047be166c269"
+    },
+    {
+      "path": "tokens/apple/NexaviaColors.xcassets/EnterpriseDataCat6.colorset/Contents.json",
+      "sha256": "fad1026f8b8526a99f3b6dcd4058abd5219dd02636cbe344bf2e2e73a7d8234f"
+    },
+    {
+      "path": "tokens/apple/NexaviaColors.xcassets/EnterpriseDataCat7.colorset/Contents.json",
+      "sha256": "ea6e578eb8cc34fbd9af0cff998898e4b7e32a415d0fccf1d8a69b6d1f578fe4"
+    },
+    {
+      "path": "tokens/apple/NexaviaColors.xcassets/EnterpriseDataCat8.colorset/Contents.json",
+      "sha256": "149c0472199b44f0f3e39efc216fc7e4c5b1554066e1839e9a5c650787bd75d7"
+    },
+    {
+      "path": "tokens/apple/NexaviaColors.xcassets/EnterpriseDataCompare.colorset/Contents.json",
+      "sha256": "3c0efd7fa5edddc60a76b6a1ea70a4661728b8caceebc64afdfd3bbcead0b2d9"
+    },
+    {
+      "path": "tokens/apple/NexaviaColors.xcassets/EnterpriseDataDiv1.colorset/Contents.json",
+      "sha256": "0885fbdaf036378cd0a1431a776c74434d2f7a33fe8266c0b1a8182c2d368553"
+    },
+    {
+      "path": "tokens/apple/NexaviaColors.xcassets/EnterpriseDataDiv2.colorset/Contents.json",
+      "sha256": "02b73eff9c94c9f9edf436b31a75240739044f07bbc6a7a9eda92275f61bb2a8"
+    },
+    {
+      "path": "tokens/apple/NexaviaColors.xcassets/EnterpriseDataDiv3.colorset/Contents.json",
+      "sha256": "2443cb4520c579fb1184846db21ec276a56f3b8696513136af4c9d844e97f1b6"
+    },
+    {
+      "path": "tokens/apple/NexaviaColors.xcassets/EnterpriseDataDiv4.colorset/Contents.json",
+      "sha256": "76b6d42bb2bc990cde8ab51cdf21f7abf46a02578087275d2fb97e6b290771f7"
+    },
+    {
+      "path": "tokens/apple/NexaviaColors.xcassets/EnterpriseDataDiv5.colorset/Contents.json",
+      "sha256": "6f06d54d23d284fb6650bd90851522ee14a38f5a4d3f5c96584d2990c3be365b"
+    },
+    {
+      "path": "tokens/apple/NexaviaColors.xcassets/EnterpriseDataDiv6.colorset/Contents.json",
+      "sha256": "d8c58a4a94c8122668868ba62e5dc91199c240f1affc68e025de24b258f730a5"
+    },
+    {
+      "path": "tokens/apple/NexaviaColors.xcassets/EnterpriseDataDiv7.colorset/Contents.json",
+      "sha256": "6b0fc727d11554e5b9ac37852eb16e358869f9ae061b3c6e1a482d901737f1b3"
+    },
+    {
+      "path": "tokens/apple/NexaviaColors.xcassets/EnterpriseDataGap.colorset/Contents.json",
+      "sha256": "970cf1eb745282897abb22725d38ef418c6756d40c7497bc2a21bb0925ac27b4"
+    },
+    {
+      "path": "tokens/apple/NexaviaColors.xcassets/EnterpriseDataGrid.colorset/Contents.json",
+      "sha256": "858c081887553528ebce5e139f469033d2338e7398eef2715413c80728f1dd94"
+    },
+    {
+      "path": "tokens/apple/NexaviaColors.xcassets/EnterpriseDataSeq1.colorset/Contents.json",
+      "sha256": "f5d1f58faab787a72da60e12ea7a2f357e6ed93538be5308a51625a623c1b3bb"
+    },
+    {
+      "path": "tokens/apple/NexaviaColors.xcassets/EnterpriseDataSeq2.colorset/Contents.json",
+      "sha256": "c640b46b87c735b885d07609390be5cb64eec6bcd7b02ae8f802576b25871d22"
+    },
+    {
+      "path": "tokens/apple/NexaviaColors.xcassets/EnterpriseDataSeq3.colorset/Contents.json",
+      "sha256": "9da213d54a090bbbfae3ebe95e978e98a6779279bb1c5fd012398df7d4a4268e"
+    },
+    {
+      "path": "tokens/apple/NexaviaColors.xcassets/EnterpriseDataSeq4.colorset/Contents.json",
+      "sha256": "31ab0ccc91b5de5af3eed08d840fd702bf46709de34696d5d8443f64e8744787"
+    },
+    {
+      "path": "tokens/apple/NexaviaColors.xcassets/EnterpriseDataSeq5.colorset/Contents.json",
+      "sha256": "d51d43769fbf36d709ff14177e1a1ff238a0b87b721c8b3e54fe16814ba73c1d"
+    },
+    {
+      "path": "tokens/apple/NexaviaColors.xcassets/EnterpriseDataSeq6.colorset/Contents.json",
+      "sha256": "7f13eb9cd3ecc8aa54ee0893587ff5e3ffe11004fb96feae19cbd496fc093997"
+    },
+    {
+      "path": "tokens/apple/NexaviaColors.xcassets/EnterpriseDataSeq7.colorset/Contents.json",
+      "sha256": "972d48d6424c27ca7a11e1adbe2013f9e05066a5df441373f76f53317f94b7bd"
+    },
+    {
+      "path": "tokens/apple/NexaviaColors.xcassets/EnterpriseDataSeries01.colorset/Contents.json",
+      "sha256": "c65084f1b36a16ccaf671a8ed99bdcd22b4eca34b49e998d42c8b182eaa8d6f0"
+    },
+    {
+      "path": "tokens/apple/NexaviaColors.xcassets/EnterpriseFocus.colorset/Contents.json",
+      "sha256": "161de54ab94cdc44481d4b32a79daabb74d6674e5b7a755a2b17ecf3fa0761d0"
+    },
+    {
+      "path": "tokens/apple/NexaviaColors.xcassets/EnterpriseLogoInk.colorset/Contents.json",
+      "sha256": "ccf99f26133edd13667f45fa59f3f072421f41ca0fc3190b5f438237678ced0e"
+    },
+    {
+      "path": "tokens/apple/NexaviaColors.xcassets/EnterpriseOffline.colorset/Contents.json",
+      "sha256": "9183b75b567d63f656e233b8272495d477cec95965d04b60675ed668621a2663"
+    },
+    {
+      "path": "tokens/apple/NexaviaColors.xcassets/EnterpriseOnAccent.colorset/Contents.json",
+      "sha256": "91133ac5f2a68d7698d1889866f619c341a61003a5b10ec24a967077dbdb8b18"
+    },
+    {
+      "path": "tokens/apple/NexaviaColors.xcassets/EnterpriseRaised.colorset/Contents.json",
+      "sha256": "3404a06a52d5d600f9498ad1cd7f6cef8883e5b8c779e46e6823d88601458616"
+    },
+    {
+      "path": "tokens/apple/NexaviaColors.xcassets/EnterpriseStatusNeutral.colorset/Contents.json",
+      "sha256": "fe8d943b806ef1b0143a38cd319063764158fa36c4b418c4079721f7db53db07"
+    },
+    {
+      "path": "tokens/apple/NexaviaColors.xcassets/EnterpriseSuccess.colorset/Contents.json",
+      "sha256": "000c9c80c7c4d36a409f04a9ec1758baefffe479e81097063413b6e25c190552"
+    },
+    {
+      "path": "tokens/apple/NexaviaColors.xcassets/EnterpriseSunken.colorset/Contents.json",
+      "sha256": "696f56deda951943ee99aef9b542ce9f67a8cbd7c69a062b4e92d5df0d071863"
+    },
+    {
+      "path": "tokens/apple/NexaviaColors.xcassets/EnterpriseTextMuted.colorset/Contents.json",
+      "sha256": "7e73abf2193636ca6763043f0a8b196f764175d5389b3f20de5fd14644c5bc38"
+    },
+    {
+      "path": "tokens/apple/NexaviaColors.xcassets/EnterpriseTextPrimary.colorset/Contents.json",
+      "sha256": "8e437277002f17ed4e4e4c42be055bf18eb18565f6fc5402fbe8da257a628d45"
+    },
+    {
+      "path": "tokens/apple/NexaviaColors.xcassets/EnterpriseTextSecondary.colorset/Contents.json",
+      "sha256": "bb4ce5cee8e64f8b30130affab3f24edce1c042f1bbcc41d141da44bc69e1db2"
+    },
+    {
+      "path": "tokens/apple/NexaviaColors.xcassets/EnterpriseWarning.colorset/Contents.json",
+      "sha256": "6534d0eaeb8870e8bdb0e539beecec9c936742f18d15c75ef6e2fa3292d69d3c"
+    },
+    {
+      "path": "tokens/apple/NexaviaTokens.swift",
+      "sha256": "780f427fa110c4663dbe73d17ec2f458fc03a83712bc2909bf314660e497ed84"
+    },
+    {
+      "path": "tokens/devextreme/nexavia-dx-viz.json",
+      "sha256": "d66265dd87723d0b51b653ec159252573eeedb1bd13b446b8921dd382fa943fd"
+    },
+    {
+      "path": "tokens/devextreme/themebuilder-consumer-dark-hc.json",
+      "sha256": "5212e7d9a4a4fca774c4b9830236f2a63135c8f7c64d0b1e7a7707db4a0d60d7"
+    },
+    {
+      "path": "tokens/devextreme/themebuilder-consumer-dark.json",
+      "sha256": "b27fcef66736ea4f7467bfb1c57dd7d3e68d843672903aacea75fca0371cd4eb"
+    },
+    {
+      "path": "tokens/devextreme/themebuilder-consumer-light-hc.json",
+      "sha256": "19af4e5cdfc2332ac716880d490bbaa03e4f029ac0dff7d28cdc5fc1b14a1110"
+    },
+    {
+      "path": "tokens/devextreme/themebuilder-consumer-light.json",
+      "sha256": "6c298bbb3dab7b36e905efe07f5f65fb79dc8a07dd2317ad10d098cbe175eea4"
+    },
+    {
+      "path": "tokens/devextreme/themebuilder-enterprise-dark-hc.json",
+      "sha256": "f59b5ea07ccacce0f1a76b17b9a011ea0b7e09d8ddf76b91f96be89e1d990b16"
+    },
+    {
+      "path": "tokens/devextreme/themebuilder-enterprise-dark.json",
+      "sha256": "7b7d8f6110dea323f1467fe7f5480863d53b1d0015ae89ee615c8b4c5f97e164"
+    },
+    {
+      "path": "tokens/devextreme/themebuilder-enterprise-light-hc.json",
+      "sha256": "f63b564f185883d03e21840302f4ff5122785a09adabc70bc946bac19a05d8f6"
+    },
+    {
+      "path": "tokens/devextreme/themebuilder-enterprise-light.json",
+      "sha256": "b573fbce27f629d3882941792d0c00e93606850da77a7dbe1032ddab13021952"
+    },
+    {
+      "path": "tokens/nexavia.tokens.css",
+      "sha256": "7f07732ebd5e4c24672e477bc8a4369801d8e6e75f728907c9f5ebaba1f47d8a"
+    },
+    {
+      "path": "tokens/nexavia.tokens.json",
+      "sha256": "988010999a21bf804ca57d60daa39ef28cd1575740974720b185931de0256036"
+    },
+    {
+      "path": "ui/android-notification/consumer/res/drawable/ic_stat_nexavia.xml",
+      "sha256": "7977b6efcdfc149752cb71dcb2d7a131acf7d743f6db965ddb975726651154c6"
+    },
+    {
+      "path": "ui/android-notification/consumer/res/values-night/nexavia_system.xml",
+      "sha256": "805de7a6c0638a8c9147c3a7e72d7afdf278ef92b04333ddba1de0a91db8d495"
+    },
+    {
+      "path": "ui/android-notification/consumer/res/values/nexavia_system.xml",
+      "sha256": "2fb3e72cbbf43d9d37db8fc756b69b3c144a0ca0453bf66b39406d34dae9d2a9"
+    },
+    {
+      "path": "ui/android-notification/enterprise/res/drawable/ic_stat_nexavia.xml",
+      "sha256": "7977b6efcdfc149752cb71dcb2d7a131acf7d743f6db965ddb975726651154c6"
+    },
+    {
+      "path": "ui/android-notification/enterprise/res/values-night/nexavia_system.xml",
+      "sha256": "21f8d8af9f989eddaa74f26b5b7274e5cecdb79cbafc8ea9eb0b38e9a0acdd26"
+    },
+    {
+      "path": "ui/android-notification/enterprise/res/values/nexavia_system.xml",
+      "sha256": "352a27e837039548b3e2abe35798c0aa2faa247305ab3a7ca37201e600e184ec"
+    },
+    {
+      "path": "ui/map-markers/dark/cluster.svg",
+      "sha256": "b7bf565c92744c247fba80f9216554b451148680b2b841d1f7d364734c045bce"
+    },
+    {
+      "path": "ui/map-markers/dark/marker-consumer-selected.svg",
+      "sha256": "d6ef9985b8f772dcf0eb11e7d49cf33fe150a94d2866c2f16ec65ec93ed212c2"
+    },
+    {
+      "path": "ui/map-markers/dark/marker-consumer.svg",
+      "sha256": "6ece833196f73c1982b36a78643c2d4628e1230cea5f118cc0ab681aeac8914f"
+    },
+    {
+      "path": "ui/map-markers/dark/marker-critical.svg",
+      "sha256": "06fc7c8234fabd53b7af0355c9dcdb540d5fb5405f20463bc8f36b02fca16377"
+    },
+    {
+      "path": "ui/map-markers/dark/marker-enterprise-selected.svg",
+      "sha256": "d3a6184a13528d63eb58a2ce0ceb0da8b7075b0461ffdb7cd2bebf8e92ca64a6"
+    },
+    {
+      "path": "ui/map-markers/dark/marker-enterprise.svg",
+      "sha256": "3c669e121ffdda8392093ac10ca253a4def5a8b4e66981a9d6a2271c8ba3073b"
+    },
+    {
+      "path": "ui/map-markers/dark/marker-offline.svg",
+      "sha256": "6d5205f2cf5b39b294526f87d4a9a168b6c909b60c70120401b0ecad9d5a0332"
+    },
+    {
+      "path": "ui/map-markers/dark/marker-ok.svg",
+      "sha256": "9516cab0b84e548075c663ed1db042b8dea68ca136727c418487d9d70e7e0c84"
+    },
+    {
+      "path": "ui/map-markers/dark/marker-warning.svg",
+      "sha256": "8a1ce9cc684f0241a13fe8df7be2af852632eec1b3e5169fa94199d608983cec"
+    },
+    {
+      "path": "ui/map-markers/light/cluster.svg",
+      "sha256": "3dd81acd209a73b14c4dbdaf217dbdb5fdbc6dbe1d804379dc416bed1cefcebf"
+    },
+    {
+      "path": "ui/map-markers/light/marker-consumer-selected.svg",
+      "sha256": "4086b99e4e8f9a55e9751f4bf2dbd45176860e4e6fb6ad44d4b47072832703eb"
+    },
+    {
+      "path": "ui/map-markers/light/marker-consumer.svg",
+      "sha256": "7df6734d1adb459608e7bd4f53e82d5779b17ddaf0077192a50bfb913228e9d1"
+    },
+    {
+      "path": "ui/map-markers/light/marker-critical.svg",
+      "sha256": "8d4d106c22ed0c36e914b0f92df8998ff7f891b05a1d63c9406ac911e2ec7340"
+    },
+    {
+      "path": "ui/map-markers/light/marker-enterprise-selected.svg",
+      "sha256": "ed0a7413f9b1696be1f45ba182b01356efb0384e6bd021593246a44f73c59052"
+    },
+    {
+      "path": "ui/map-markers/light/marker-enterprise.svg",
+      "sha256": "596e6962aa500d7089b13bbf6c75a91390cbc73c15f5df74d213af3c9f8a2006"
+    },
+    {
+      "path": "ui/map-markers/light/marker-offline.svg",
+      "sha256": "5da138b731a061b1b1fb2f224ca167e8a074a38064ff98a1e8419a7865eec9e1"
+    },
+    {
+      "path": "ui/map-markers/light/marker-ok.svg",
+      "sha256": "19ac097a4f1ea8cc75f64858cdb0835fe2fabcca064faf599905740c1383a668"
+    },
+    {
+      "path": "ui/map-markers/light/marker-warning.svg",
+      "sha256": "fb10d4f3952bacb13c43c15bdd21eaf296984f1b6241daa5a5dd63b22d6aae43"
+    },
+    {
+      "path": "web/consumer/apple-touch-icon.png",
+      "sha256": "e5681549683b4b5ab21df47f3e9f670933f8dd68ac97875329de17bfb10d5148"
+    },
+    {
+      "path": "web/consumer/favicon.ico",
+      "sha256": "75a0069fe9c5b92e4ddb7a7d1cfee1e4912996dcb940c6b0ee9899f69cd3e5ca"
+    },
+    {
+      "path": "web/consumer/favicon.svg",
+      "sha256": "4528b34940846ab63adb7d4db55d707191a008b7bc816d6e812ec809e46442a6"
+    },
+    {
+      "path": "web/consumer/head-snippet.html",
+      "sha256": "665778f192311c50a56040e3ed32019a875352d96726be5d84e7f998238b59a9"
+    },
+    {
+      "path": "web/consumer/icon-192.png",
+      "sha256": "d0c393128b8d0029b82951f51992c0239e82be8b88865d7b324f1c4988118007"
+    },
+    {
+      "path": "web/consumer/icon-512.png",
+      "sha256": "0fe7c19eefe8d108f60fbf6a2b537a9c117e51c04f7f99ffa43b7621bbd35ccb"
+    },
+    {
+      "path": "web/consumer/manifest.webmanifest",
+      "sha256": "efd73157c3bdb1845b0b5bdae2b9336e375f132cc6bd654c630710726380edd6"
+    },
+    {
+      "path": "web/enterprise/apple-touch-icon.png",
+      "sha256": "35ded9ba1f983889dd78be7fedbf8b46f68cda32fa131057a33abfaebd633d70"
+    },
+    {
+      "path": "web/enterprise/favicon.ico",
+      "sha256": "cfa809decb3d9069c40ff90a7270e5d4f1fa0124f8a268f0beeba0bb6f60c438"
+    },
+    {
+      "path": "web/enterprise/favicon.svg",
+      "sha256": "8d1d40189743183d46867ea724d1b6b868ee2c37241ac40493744ee8c585e886"
+    },
+    {
+      "path": "web/enterprise/head-snippet.html",
+      "sha256": "665778f192311c50a56040e3ed32019a875352d96726be5d84e7f998238b59a9"
+    },
+    {
+      "path": "web/enterprise/icon-192.png",
+      "sha256": "8fba2dc5365f867a007777fb161dc6c6a380403979d05bc0ec32acc4756a5786"
+    },
+    {
+      "path": "web/enterprise/icon-512.png",
+      "sha256": "d8938c4f02eeedd13635481c885e73fa0b87c5195adbd8d307605dfa72a84e9f"
+    },
+    {
+      "path": "web/enterprise/manifest.webmanifest",
+      "sha256": "efd73157c3bdb1845b0b5bdae2b9336e375f132cc6bd654c630710726380edd6"
+    }
+  ]
+}

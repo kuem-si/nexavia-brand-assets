@@ -1,4 +1,4 @@
-0197b38ad110d138cd96c39e5fb48bd9bc0c4e60dfd7f61d65be5c995ef2c889  ./README.md
+a45a85108ee9afb0d10c007d3e3069dfeffd9f30fab32e8a0aeeebb4ea913863  ./README.md
 73245805b9c87691499a34362de8b5f8e0c0f8378695b49619cc18be4177e3b3  ./app-icons/consumer/android-adaptive-background.svg
 b60f9ec298a4e7817fed26434feb650b0cf8466b8a52a98568eb1b4625b2538b  ./app-icons/consumer/android-adaptive-foreground.svg
 b60f9ec298a4e7817fed26434feb650b0cf8466b8a52a98568eb1b4625b2538b  ./app-icons/consumer/android-monochrome.svg
@@ -27,8 +27,8 @@ e401e5f31051b2ddc31e6c32c6f6a3bcd1f980238479c0935f9f69ce6c6d2d90  ./app-icons/en
 cb24e89e9edd33084655721fd41b16197de9b1a48a9a45435f94e8f516b124f2  ./app-icons/store/enterprise-ios-dark-1024.png
 cb24e89e9edd33084655721fd41b16197de9b1a48a9a45435f94e8f516b124f2  ./app-icons/store/enterprise-ios-default-1024.png
 7f3f35bff4e3f26df500c8874e854703521031e4b1c333fb5e032c42b8d23fbd  ./app-icons/store/enterprise-ios-tinted-1024.png
-72bc34c0171914a3294f5c5a32766ebdb7a485f9e1a1673dd4e9e60b1e189de6  ./guidelines/nexavia-brand-guidelines-1.5.0.pdf
-eafaeb0eb89805ce06d16a13211e7464e5933892a3964792a490d1c13eb5ec43  ./guidelines/nexavia-brand-guidelines.html
+0bb726078ecbd82aef5332fd60783c0fb23d0a636adaa811cf3fdc45339228aa  ./guidelines/nexavia-brand-guidelines-1.6.0.pdf
+bb31ff6c96e7f1a0267c53fde0f8bb9f95c384d48b99b6059a2f634371633095  ./guidelines/nexavia-brand-guidelines.html
 68ca7e84d327aedaecf74754c6c242b3e2ce38b50dd8d3fa4d549de95a5c12a6  ./illustrations/consumer/dark/access-shared.svg
 e18437a905a7854c8efe65b6ad85e6eb79a27adf228e1cd129bac06534f70987  ./illustrations/consumer/dark/alerts.svg
 11198f67239f0389dcdc014849f8429ebc63f85527248bd7d71a5c1c13a1ce06  ./illustrations/consumer/dark/connect-meter.svg
@@ -253,7 +253,7 @@ cc5fa288a34ca2c24ae42fe7b0b37dac9b5ab752f279f9373cb6bd9106f49f94  ./templates/so
 25471bd1ac76b3a33d47012879805f9b9e6b1ec26096266825867459c543d0a5  ./templates/social/post-announcement-light-en-1080x1350.png
 77df1659e957f44803298b456129eb327475d189bfe54ee1ed8437cac45df65a  ./templates/social/post-announcement-light-sl-1080x1080.png
 d6995d5e5f1e062e10c6a7e5c772127cb7f64114e2a1ee177a2e60c61b9c8c20  ./templates/social/post-announcement-light-sl-1080x1350.png
-d1891106ced27cac779fcb4d1a41d2fc279be49dfd0118bde6cbb98679ed7193  ./tokens/android/NexaviaTokens.kt
+b69466643a7fd6fca2f959b0636d7aa16c51f8a2d4fba7b0777633797049bf20  ./tokens/android/NexaviaTokens.kt
 a7f51725016e8c2bf1a68352ae2b29a0473b2f983ca2f87808c4d44bad20fd2c  ./tokens/apple/NexaviaColors.xcassets/ConsumerAccent.colorset/Contents.json
 ccf99f26133edd13667f45fa59f3f072421f41ca0fc3190b5f438237678ced0e  ./tokens/apple/NexaviaColors.xcassets/ConsumerAppIconGlyph.colorset/Contents.json
 8ba55645622a46197c242051e361f06961c2704950b3e30a2b2e145efeafa18e  ./tokens/apple/NexaviaColors.xcassets/ConsumerAppIconTile.colorset/Contents.json
@@ -345,7 +345,7 @@ fe8d943b806ef1b0143a38cd319063764158fa36c4b418c4079721f7db53db07  ./tokens/apple
 8e437277002f17ed4e4e4c42be055bf18eb18565f6fc5402fbe8da257a628d45  ./tokens/apple/NexaviaColors.xcassets/EnterpriseTextPrimary.colorset/Contents.json
 bb4ce5cee8e64f8b30130affab3f24edce1c042f1bbcc41d141da44bc69e1db2  ./tokens/apple/NexaviaColors.xcassets/EnterpriseTextSecondary.colorset/Contents.json
 6534d0eaeb8870e8bdb0e539beecec9c936742f18d15c75ef6e2fa3292d69d3c  ./tokens/apple/NexaviaColors.xcassets/EnterpriseWarning.colorset/Contents.json
-780f427fa110c4663dbe73d17ec2f458fc03a83712bc2909bf314660e497ed84  ./tokens/apple/NexaviaTokens.swift
+67febce28dddde4fbbb7059944b54e86788be002c4dfd03317304ab0b2c23369  ./tokens/apple/NexaviaTokens.swift
 d66265dd87723d0b51b653ec159252573eeedb1bd13b446b8921dd382fa943fd  ./tokens/devextreme/nexavia-dx-viz.json
 5212e7d9a4a4fca774c4b9830236f2a63135c8f7c64d0b1e7a7707db4a0d60d7  ./tokens/devextreme/themebuilder-consumer-dark-hc.json
 b27fcef66736ea4f7467bfb1c57dd7d3e68d843672903aacea75fca0371cd4eb  ./tokens/devextreme/themebuilder-consumer-dark.json
@@ -355,8 +355,8 @@ f59b5ea07ccacce0f1a76b17b9a011ea0b7e09d8ddf76b91f96be89e1d990b16  ./tokens/devex
 7b7d8f6110dea323f1467fe7f5480863d53b1d0015ae89ee615c8b4c5f97e164  ./tokens/devextreme/themebuilder-enterprise-dark.json
 f63b564f185883d03e21840302f4ff5122785a09adabc70bc946bac19a05d8f6  ./tokens/devextreme/themebuilder-enterprise-light-hc.json
 b573fbce27f629d3882941792d0c00e93606850da77a7dbe1032ddab13021952  ./tokens/devextreme/themebuilder-enterprise-light.json
-7f07732ebd5e4c24672e477bc8a4369801d8e6e75f728907c9f5ebaba1f47d8a  ./tokens/nexavia.tokens.css
-988010999a21bf804ca57d60daa39ef28cd1575740974720b185931de0256036  ./tokens/nexavia.tokens.json
+4b05a5af658c10ed8c2e38dad3c1acb200cc6ed0d92ecd80de8aae95c8e06b6f  ./tokens/nexavia.tokens.css
+6b25b4a8c27246c4350cac0ae46901f4db8cf630c3877d9c0d5faed9f41f1378  ./tokens/nexavia.tokens.json
 7977b6efcdfc149752cb71dcb2d7a131acf7d743f6db965ddb975726651154c6  ./ui/android-notification/consumer/res/drawable/ic_stat_nexavia.xml
 805de7a6c0638a8c9147c3a7e72d7afdf278ef92b04333ddba1de0a91db8d495  ./ui/android-notification/consumer/res/values-night/nexavia_system.xml
 2fb3e72cbbf43d9d37db8fc756b69b3c144a0ca0453bf66b39406d34dae9d2a9  ./ui/android-notification/consumer/res/values/nexavia_system.xml

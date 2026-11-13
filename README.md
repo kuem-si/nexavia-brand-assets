@@ -1,8 +1,8 @@
 # Nexavia brand assets
 
-Official, approved brand assets for **Nexavia** and its applications **Nexavia Enterprise** and **Nexavia Consumer** (working name). Identity release **v1.4.1**.
+Official, approved brand assets for **Nexavia** and its applications **Nexavia Enterprise** and **Nexavia Consumer** (working name). Identity release **v1.5.0**.
 
-Start with the brand guidelines: [`guidelines/nexavia-brand-guidelines-1.4.0.pdf`](guidelines/nexavia-brand-guidelines-1.4.0.pdf) (also as offline HTML, which follows light or dark mode).
+Start with the brand guidelines: [`guidelines/nexavia-brand-guidelines-1.5.0.pdf`](guidelines/nexavia-brand-guidelines-1.5.0.pdf) (also as offline HTML, which follows light or dark mode).
 
 ## Contents
 
@@ -13,7 +13,7 @@ Start with the brand guidelines: [`guidelines/nexavia-brand-guidelines-1.4.0.pdf
 | `app-icons/` | iOS (default, dark, tinted) and Android adaptive icon sources per app; `store/` has the 1024 px App Store and 512 px Google Play files |
 | `web/` | Favicons, touch icon, web manifest and a `<head>` snippet per app |
 | `ui/` | Map markers (light, dark) and the Android notification icon resources |
-| `tokens/` | Design tokens: JSON, CSS custom properties, Kotlin (Compose), Swift with an Xcode colour catalogue, DevExtreme ThemeBuilder files |
+| `tokens/` | Design tokens (including window size class breakpoints 600 / 840 / 1200): JSON, CSS custom properties, Kotlin (Compose), Swift with an Xcode colour catalogue, DevExtreme ThemeBuilder files |
 | `illustrations/` | Ten spot illustrations per app, light and dark; `web/` versions take their colours from CSS custom properties |
 | `templates/` | Covers (1920 × 1080), social posts and LinkedIn covers, GitHub images, PowerPoint deck and Word report templates with PDF exports, transactional e-mails (HTML and plain text); Slovenian, English and German |
 | `print/` | Table flag, roll-up, A4 tent card (print-ready PDF) and 4K booth screen; `proofs/` has colour and greyscale proofs |
@@ -22,11 +22,17 @@ Start with the brand guidelines: [`guidelines/nexavia-brand-guidelines-1.4.0.pdf
 ## Rules in short
 
 - Use the logo files as they are. Do not redraw, recolour, stretch, outline or add effects. Below 20 px wordmark height, use the N icon.
+- "Consumer" is a working name until the final app name is chosen. Write "Nexavia Consumer (working name)" in text; the lockup artwork keeps the plain descriptor.
 - Every asset comes in light and dark. Use the version that matches the background.
 - Accent colours identify the application. They never signal a status, such as an alert or an error.
 - E-mail templates contain placeholders in `{{DOUBLE_BRACES}}`. The sending service fills them in. Host the logo PNGs from `logo/lockups/` and use their URLs.
 - Print files are sRGB with the vector logo and embedded fonts. The print shop converts them to its colour profile and sends a proof before printing. The sizes are common defaults; if a print shop needs different ones, ask the brand owner for files to fit its template.
+- Layouts switch at 600, 840 and 1200 px (dp on Android). Only overlays and dialogs cast a shadow, and it is the platform's own.
 - All data in screenshots, templates and samples is synthetic.
+
+## Release
+
+`release.json` names the identity release this export was built from and the SHA-256 of every file; `MANIFEST.sha256` lists the same files for `sha256sum -c`.
 
 ## Typeface
 

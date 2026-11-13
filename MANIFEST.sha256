@@ -1,4 +1,4 @@
-4f10fa30035993a006370fde5e7f81f92856fabda9ec536718de344b22970460  ./README.md
+0197b38ad110d138cd96c39e5fb48bd9bc0c4e60dfd7f61d65be5c995ef2c889  ./README.md
 73245805b9c87691499a34362de8b5f8e0c0f8378695b49619cc18be4177e3b3  ./app-icons/consumer/android-adaptive-background.svg
 b60f9ec298a4e7817fed26434feb650b0cf8466b8a52a98568eb1b4625b2538b  ./app-icons/consumer/android-adaptive-foreground.svg
 b60f9ec298a4e7817fed26434feb650b0cf8466b8a52a98568eb1b4625b2538b  ./app-icons/consumer/android-monochrome.svg
@@ -27,8 +27,8 @@ e401e5f31051b2ddc31e6c32c6f6a3bcd1f980238479c0935f9f69ce6c6d2d90  ./app-icons/en
 cb24e89e9edd33084655721fd41b16197de9b1a48a9a45435f94e8f516b124f2  ./app-icons/store/enterprise-ios-dark-1024.png
 cb24e89e9edd33084655721fd41b16197de9b1a48a9a45435f94e8f516b124f2  ./app-icons/store/enterprise-ios-default-1024.png
 7f3f35bff4e3f26df500c8874e854703521031e4b1c333fb5e032c42b8d23fbd  ./app-icons/store/enterprise-ios-tinted-1024.png
-e85ad2691ee17e555b12552a4304c708587a37292aa8231c184653e1c83fa458  ./guidelines/nexavia-brand-guidelines-1.4.0.pdf
-1e1ae95aa82528854b10b3b986e21975cbf5ee874dd745f2059f78390b898da7  ./guidelines/nexavia-brand-guidelines.html
+72bc34c0171914a3294f5c5a32766ebdb7a485f9e1a1673dd4e9e60b1e189de6  ./guidelines/nexavia-brand-guidelines-1.5.0.pdf
+eafaeb0eb89805ce06d16a13211e7464e5933892a3964792a490d1c13eb5ec43  ./guidelines/nexavia-brand-guidelines.html
 68ca7e84d327aedaecf74754c6c242b3e2ce38b50dd8d3fa4d549de95a5c12a6  ./illustrations/consumer/dark/access-shared.svg
 e18437a905a7854c8efe65b6ad85e6eb79a27adf228e1cd129bac06534f70987  ./illustrations/consumer/dark/alerts.svg
 11198f67239f0389dcdc014849f8429ebc63f85527248bd7d71a5c1c13a1ce06  ./illustrations/consumer/dark/connect-meter.svg
@@ -169,10 +169,10 @@ cf14ec2c8f33b891e37d618a6ab0794dc5847afbf9868ba8f6e4a60c7024d718  ./print/roll-u
 75b85fbf4c198f430d3672ad5d8c7e49bb2303e8ec19b3dfa918e270f7c38c2c  ./print/tent-card-de.pdf
 5cf16f190ec69d7b7075a9d7d849ff1176ad7f0c42b285a70728d3738eab6e45  ./print/tent-card-en.pdf
 bf0479097c546ff84739404ed3b62283ed16f87ad77164cd3d9efe7d4a25d2ab  ./print/tent-card-sl.pdf
-4fa9c3af3c2df27f08fa17ff58d2fd6104fa377bb043f22b79de623f96d10064  ./store/android-phone-consumer-dark.png
-f48e95ef83fbcf4afd5b8ae4989dabf31bfe98b26d8c6057616cd0b158c6b141  ./store/android-phone-consumer-light.png
-c36297cc96b1e903404e742f098d341c8d222f1f8649952574576ed6dbbd6322  ./store/iphone-6.9-consumer-dark.png
-97180e681305709786f5c82ba910c5bc99f2b2ba983a310fc3be88203a95f904  ./store/iphone-6.9-consumer-light.png
+fb235bbe141c7ea27763b9b4afe164c1689611a4fe8bcf82c917b84849712be2  ./store/android-phone-consumer-dark.png
+a773f98a825e3d750337e0338f7503d94d06c0770d8a8e8c48e486a091b0dcd6  ./store/android-phone-consumer-light.png
+8336dcc8aa908b5006e461e7de645137cee834505cdd7d3acce7f37e1128df90  ./store/iphone-6.9-consumer-dark.png
+9cdf5c9a34e14c6b2fe1691b7ed9dc83b8c15ac7173556bdf9cb21c9c4b5a407  ./store/iphone-6.9-consumer-light.png
 4d21b4d39a2ae6d1ad9377cf789551d1614d2da60b52bd8ca16300ac3386a2c2  ./store/link-preview/nexavia-consumer-1200x630.png
 40ca7836bc0bee905aef0071cf15f90ddaf0b6f405a0ffb28b3e28caceba07c2  ./store/link-preview/nexavia-enterprise-1200x630.png
 ccf17d9cc2b8072416a057f5add119288d9adab1dc2f945b3b6daabeea738ae8  ./templates/covers/nexavia-consumer-cover-dark-de-1920x1080.png
@@ -355,8 +355,8 @@ f59b5ea07ccacce0f1a76b17b9a011ea0b7e09d8ddf76b91f96be89e1d990b16  ./tokens/devex
 7b7d8f6110dea323f1467fe7f5480863d53b1d0015ae89ee615c8b4c5f97e164  ./tokens/devextreme/themebuilder-enterprise-dark.json
 f63b564f185883d03e21840302f4ff5122785a09adabc70bc946bac19a05d8f6  ./tokens/devextreme/themebuilder-enterprise-light-hc.json
 b573fbce27f629d3882941792d0c00e93606850da77a7dbe1032ddab13021952  ./tokens/devextreme/themebuilder-enterprise-light.json
-babebac4a8d9b95d15c708c254cbe1c735371e83c801fed1e801f3e49cd9da91  ./tokens/nexavia.tokens.css
-27a297b5c4298431c6e0930daadbf175041f58f0ef895f699f287605890fcec0  ./tokens/nexavia.tokens.json
+7f07732ebd5e4c24672e477bc8a4369801d8e6e75f728907c9f5ebaba1f47d8a  ./tokens/nexavia.tokens.css
+988010999a21bf804ca57d60daa39ef28cd1575740974720b185931de0256036  ./tokens/nexavia.tokens.json
 7977b6efcdfc149752cb71dcb2d7a131acf7d743f6db965ddb975726651154c6  ./ui/android-notification/consumer/res/drawable/ic_stat_nexavia.xml
 805de7a6c0638a8c9147c3a7e72d7afdf278ef92b04333ddba1de0a91db8d495  ./ui/android-notification/consumer/res/values-night/nexavia_system.xml
 2fb3e72cbbf43d9d37db8fc756b69b3c144a0ca0453bf66b39406d34dae9d2a9  ./ui/android-notification/consumer/res/values/nexavia_system.xml

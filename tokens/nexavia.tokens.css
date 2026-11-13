@@ -2,6 +2,9 @@
 /* Usage: <html data-nx-member="enterprise|consumer" data-nx-theme="light|dark">; without data-nx-theme the OS preference applies. */
 
 :root {
+  --nx-breakpoint-expanded: 840px;
+  --nx-breakpoint-large: 1200px;
+  --nx-breakpoint-medium: 600px;
   --nx-component-card-padding: 16px;
   --nx-component-card-radius: 16px;
   --nx-component-chart-bar-radius: 3px;
